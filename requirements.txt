@@ -1,0 +1,9 @@
+pytorch == 1.1.0
+tqdm
+pandas
+boto3
+requests
+regex
+seqeval
+psutil
+matplotlib

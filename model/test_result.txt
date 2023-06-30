@@ -1,0 +1,800 @@
+SGW	Pred:	"资治通鑑_NA 卷_NA 第_NA 一_NA 百_NA 八_NA
+SGW	Pred:	端明殿_NA 学士_NA 兼_VT 翰林侍读_NA 学士_NA 朝散大夫_NA 右谏议大夫_NA 充_VT 集贤院_NA 修撰_NA 权_D 判_VT 西京_NA 留司_NA 御史台_NA 上柱国_NA 河内郡_NA 开国侯_NA 食邑_NA 一_NA 千_NA 三_NA 百_NA 户_NF 食_NA 实_D 封_VT 四_NA 百_NA 户_NA 赐_VT 紫金鱼袋_NA 臣_NH 司马光_NA 奉_VT 敕_NA 编集_VT
+SGW	Pred:	后_NA 学_VT 天台_NA 胡三省_NA 音注_NA
+SGW	Pred:	晋纪_NB 三_A 十_A 起_VT 玄黓_NB 执徐_NB （壬辰_NA ），尽_VT 柔兆_NA 涒滩_NC （丙申_NA ），凡_D 五_A 年_NA
+SGW	Pred:	烈宗孝武皇帝_NB 下_NG
+SGW	Pred:	太元_ND 十七年_NA （壬辰_NA 、三_A 九_A 二_A
+SGW	Pred:	1春_NA ，正月_NA ，己巳_NA 朔_NA ，大_D 赦_VT
+SGW	Pred:	2秦_NB 主_NA 登_NB 立_V 昭仪_NA 陇西_NC 李氏_NB 为_VT 皇后_NA
+SGW	Pred:	3二二月_NA ，壬寅_NA ，燕_NB 主_NA 垂_NB 自_P 鲁口_NC 如_VT 河间_NC 、渤海_NC 、平原_NC 。翟钊_NB 遣_VT 其_NH 将_NA 翟都_NB 侵_VT 馆陶_NA ，屯_VT 苏康_NA 垒_NA 。苏康_NA ，人姓名_NA 。馆陶县_NA ，汉_NA 属_VT 魏郡_NA ，晋_NA 属_VT 阳平郡_NA 。将_NA ，卽_R 亮_R 翻_V ；下_NG 同_NB 。三月_NA ，垂_NB 引_VT 兵_NA 南_NG 击_VT 钊_NB
+SGW	Pred:	4秦_NB 骠骑将军_NA 没弈干_NA 帅_VT 众_NA 降_VT 于_P 后秦_NB ，骠_R ，匹_R 妙_R 翻_V 。骑_R ，奇_R 寄_R 翻_V 。帅_R ，读_VT 曰_VT 率_R 。降_R ，户_R 江_R 翻_V 。后秦_NB 以_P 为_VT 车骑将军_NA ，封_VT 高平公_NB
+SGW	Pred:	
+SGW	Pred:	5后_NA 秦_NA 主_NA 苌_NA 寝疾_VT ，命_VT 姚硕德_NA 鎭_VT 李润_NA ，尹纬_NA 守_VT 长安_NA ，召_VT 太子_NA 兴_NA 诣_VT 行营_NA
+SGW	Pred:	苌时_NA 屯_V 安定_V
+SGW	Pred:	苌_NA ，音_NA 长_R
+SGW	Pred:	征南将军_NA 姚方成_NA 言_VT 于_P 兴_NA 曰_VT ：「今_NA 寇敌_NA 未_D 灭_VT ，上_NA 复_D 寝疾_VT
+SGW	Pred:	复_R ，扶_VT 又_D 翻_VT
+SGW	Pred:	王统_NA 等_T6 皆_D 有_VT 部曲_NA ，终_D 为_VT 人_NA 患_NA ，宜_VT 尽_D 除_VT 之_NH
+SGW	Pred:	」兴_NA 从_VT 之_NH ，杀_VT 王统_NA 、王广_NA 、苻胤_NA 、徐成_NA 、毛盛_NA
+SGW	Pred:	皆_D 苻氏_NA 旧_A 臣_NA 也_T
+SGW	Pred:	苌_NA 怒_VT 曰_VT ：「王统_NA 兄弟_NA ，吾_NH 之_D 州里_NA ，实_D 无_VT 他_NH 志_NA ；徐成_NA 等_T6 皆_D 前_NA 朝_NA 名_A 将_NA ，朝_NA ，直_VT 遥_VT 翻_VT
+SGW	Pred:	吾_NH 方_D 用_VT 之_NH ，奈何_D 辄_D 杀_VT 之_NH ！」使_C 苌_NB 果_D 以_P 杀_VT 统_NB 等_T 为_VT 非_D 罪_NA ，当_VT 按_VT 诛_VT 始_D 造_VT 谋_NA 者_NH ；但_D 怒_VT 而已_T ，岂_D 眞_D 怒_VT 邪_T
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	6燕_NA 主_NA 垂_D 进逼_VT 苏康_NA 垒_NA
+SGW	Pred:	夏_NA ，四月_NA ，翟都_NB 南_NG 走_VT 滑台_NC
+SGW	Pred:	走_V ，音_NA 奏_VT
+SGW	Pred:	翟钊_NA 求_VT 救_NA 于_P 西燕_NA ，西燕_NA 主_NA 永_NA 谋_VT 于_P 羣_A 臣_NA ，尙书_NA 郞_VT 渤海_NA 鲍遵_NA 曰_VT ：「使_VT 两_NA 寇_NA 相_D 弊_VT ，吾_NH 承_VT 其_NH 后_NG ，此_NH 卞庄子_NA 之_D 策_NA 也_T
+SGW	Pred:	」中书侍_NA 郞太原_NA 张腾_NA 曰_VT ：「垂_NA 强_VT 钊_NA 弱_VT ，何_NH 弊_NA 之_D 承_VT ！不如_C 速_VT 救_VT 之_NH ，以_P 成_VT 鼎足_NA 之_D 势_NA
+SGW	Pred:	今_NA 我_NH 引_VT 兵_NA 趋_VT 中山_NC ，趋_V ，七_R 喩_R 翻_V ；下趣_NA 同_V
+SGW	Pred:	昼_NA 多_VT 疑兵_NA ，夜_NA 多_VT 火炬_NA ，垂_D 必_VT 惧_VT 而_C 自_D 救_VT
+SGW	Pred:	我_NH 冲_VT 其_NH 前_NG ，钊_NB 蹑_VT 其_NH 后_NG ，此_NH 天_NA 授_VT 之_T 机_NA ，不_D 可_VT 失_VT 也_T
+SGW	Pred:	」永_D 不_D 从_VT
+SGW	Pred:	翟钊_NB 败_V ，则_C 西燕_NB 之_T 亡形_NA 成_V 矣_T
+SGW	Pred:	
+SGW	Pred:	7燕_NB 大_D 赦_VT
+SGW	Pred:	8五月_NA ，丁卯_NA 朔_NA ，日_NB 有_VT 食_VT 之_NH
+SGW	Pred:	
+SGW	Pred:	9六月_NA ，燕_NB 主垂_NB 军_NA 黎阳_NC ，临_VT 河_NC 欲_VT 济_V ，翟钊_NB 列_V 兵_NA 南岸_NA 以_P 拒_VT 之_NH
+SGW	Pred:	辛亥_NA ，垂_NA 徙_VT 营_NA 就_VT 西_NG 津_NA ，去_VT 黎阳_NA 西_NG 四_NA 十_NA 里_NF ，为_VT 牛皮_NA 船_NA 百_NA 馀_T7 艘_NF ，伪_VT 列_VT 兵仗_NA ，泝流_NA 而_C 上_VT
+SGW	Pred:	艘_R ，苏_R 遭_R 翻_VT
+SGW	Pred:	上_R ，时_D 掌_VT 翻_VT
+SGW	Pred:	钊_NA 亟_VT 引_VT 兵_NA 趣_VT 西_NG 津_NA ，趣_VT ，七_NA 喩_NA 翻_VT
+SGW	Pred:	垂_NB 潜_D 遣_VT 中垒将军_NA 桂林王鎭_NB 等_T 自_P 黎阳津_NC 夜_NA 济_V ，营_V 于_P 河南_NC ，比_P 明_NA 而_C 营_NA 成_V
+SGW	Pred:	比_NB ，必_VT 寐翻_V ，及_V 也_T
+SGW	Pred:	钊_NA 闻_VT 之_NH ，亟_VT 还_VT ，攻_VT 鎭_NA 等_T6 营_NA ，垂_VT 命_VT 鎭_NA 等_T6 坚_VT 壁_NA 勿_D 战_V
+SGW	Pred:	钊_NA 兵_NA 往来_VT 疲暍_VT ，暍_V ，于_R 歇_R 翻_V ，伤_VT 暑_NA 也_T
+SGW	Pred:	攻_VT 营_NA 不_D 能_VT 拔_VT ，将_D 引去_V ；鎭_NB 等_T 引_VT 兵_NA 出_V 战_V ，骠骑将军_NA 农_NB 自_P 西津_NC 济_V ，与_P 鎭_NB 等_T 夹_D 击_VT ，大_D 破_V 之_NH
+SGW	Pred:	燕_NB 主_NA 垂_D 用_VT 兵_NA 于_P 河_NC 上_NG 者_NH 再_V ，温详_NB 则_C 引_VT 兵_NA 径_D 济_V 而_C 取_VT 之_NH ，翟钊_NB 则_C 张_V 疑兵_NA 于_P 西_NG 而_C 潜_V 军_NA 东_NG 渡_V ，亦_D 以_P 决_V 胜_NA ，视_VT 敌_NA 之_T 坚脆_NA 何如_V 也_T
+SGW	Pred:	骠_NA ，匹_R 妙_R 翻_VT
+SGW	Pred:	骑_VT ，奇_R 寄_R 翻_E
+SGW	Pred:	农_R ，燕_NA 之_D 骠骑大将军_NA ，此_NH 逸_R 「大_R 」字_NA
+SGW	Pred:	钊_NB 走_V 还_VT 滑台_NC ，将_VT 妻子_NA ，收_VT 遗众_NA ，北_NG 济_VT 河_NC ，登_VT 白鹿山_NA ，水经_NA 注_NA ：河内_NA 脩武县_NA 北_NG 有_VT 白鹿山_NA
+SGW	Pred:	凭_VT 险_NA 自_NH 守_VT ，燕_NA 兵_NA 不_D 得_VT 进_VT
+SGW	Pred:	农_NB 曰_VT ：「钊_NB 无_VT 粮_NA ，不_D 能_VT 久_D 居_VT 山_NA 中_NG
+SGW	Pred:	」乃_D 引_VT 兵_NA 还_V ，留_V 骑_NA 候_VT 之_NH
+SGW	Pred:	钊_NA 果_D 下_VT 山_NA ，还_VT 兵_NA 掩击_V ，尽_D 获_VT 其_NH 众_NA ，钊_NA 单_VT 骑_NA 奔_VT 长子_NA
+SGW	Pred:	西燕_NA 主_NA 永_NA 以_P 钊_NA 为_VT 车骑大将军_NA 、兖州_NA 牧_NA ，封_VT 东郡王_NA
+SGW	Pred:	岁_NA 馀_T7 ，钊_NA 谋_VT 反_NA ，永_NA 杀_VT 之_NH
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	初_NA ，郝晷_NA 、崔逞_NA 及_C 淸河_NA 崔宏_NA 、新兴_NA 张卓_NA 、辽东_NA 夔腾_NA 、𧃰_NA ，姓_NA 也_T
+SGW	Pred:	石赵_NB 之_T 臣_NA 有_VT 𧃰安_NB
+SGW	Pred:	阳平_NA 路纂_NA 皆_D 仕_V 于_P 秦_NA ，避_VT 秦_NA 乱_NA 来_VT 奔_VT ，诏_VT 以为_VT 冀州_NA 诸_NA 郡_NA ，各_D 将_VT 部曲_NA 营_VT 于_P 河南_NA ；将_R ，卽_R 亮_R 翻_VT
+SGW	Pred:	旣而_C 受_VT 翟氏_NB 官爵_NA ，翟氏_NB 败_V ，皆_D 降_V 于_P 燕_NB ，降_V ，户_R 江_R 翻_V
+SGW	Pred:	燕_NB 主垂_NB 各_D 随_VT 其_NH 材_NA 而_C 用_VT 之_NH
+SGW	Pred:	钊_NA 所_T8 统_VT 七_NA 郡_NA 三_NA 万_NA 馀_T7 户_NA ，皆_D 按_VT 堵_NA 如_VT 故_NA
+SGW	Pred:	以_P 章武王_NA 宙_NA 为_VT 兖_NA 、豫_NA 二_NA 州_NA 刺史_NA ，鎭_VT 滑台_NA ；徙_VT 徐州_NA 民_NA 七_NA 千_NA 馀_T7 户_NA 于_P 黎阳_NA ，以_P 彭城王_NA 脱_NA 为_VT 徐州_NA 刺史_NA ，鎭_VT 黎阳_NA
+SGW	Pred:	徐州_NA 之_D 民_NA ，盖_D 为_P 翟钊_NA 所_T8 掠_VT 者_T8
+SGW	Pred:	脱_NB ，垂_NB 之_T 弟子_NA 也_T
+SGW	Pred:	垂_NB 以_P 崔荫_NB 为_VT 宙_NB 司马_NA
+SGW	Pred:	
+SGW	Pred:	初_NA ，陈留王_NA 绍_NA 为_VT 鎭南将军_NA ，太原王楷_NA 为_VT 征西将军_NA ，乐浪王_NA 温_NA 为_VT 征东将军_NA ，乐浪_NA ，音_NA 洛_R 琅_R 。垂_NA 皆_D 以_P 荫_NA 为_VT 之_NH 佐_NA 。荫_NA 才干_NA 明敏_VT 强正_VT ，善_VT 规谏_VT ，四_NA 王_NA 皆_D 严惮_VT 之_NH ；所_T8 至_VT 简_VT 刑法_NA ，轻_VT 赋役_NA ，流民_NA 归_VT 之_NH ，户口_NA 滋_D 息_VT
+SGW	Pred:	秋_NA ，七月_NA ，垂_NA 如_VT 邺_NA ，以_P 太原王_NA 楷_NA 为_VT 冀州_NA 牧_NA ，右光禄大夫_NA 馀蔚_NA 为_VT 左仆射_NA 。蔚_NA ，纡_R 勿_D 翻_VT
+SGW	Pred:	
+SGW	Pred:	10秦_NB 主登_NB 闻_VT 后_NG 秦_NB 主苌_NB 疾病_V ，大_D 喜_VT ，疾_NA 甚_V 曰_VT 病_NA
+SGW	Pred:	吿祠_VT 世祖_NA 神主_NA ，苻坚_NA 庙_NA 号_VT 世祖_NA
+SGW	Pred:	大_VT 赦_VT ，百官_NA 进_VT 位_NA 二_NA 等_NA ，秣_VT 马_NA 厉_VT 兵_NA ，进逼_VT 安定_NA ，去_VT 城_NA 九_NA 十_NA 馀_T7 里_NF
+SGW	Pred:	八月_NA ，苌_NB 疾_V 小瘳_NB ，出_V 拒_VT 之_NH
+SGW	Pred:	登_NA 引_VT 兵_NA 出_VT 营_NA ，将_D 逆_VT 战_V ，苌_NA 遣_VT 安南将军_NA 姚熙隆_NA 别_D 攻_VT 秦_NA 营_NA ，登_NA 惧_VT 而_C 还_VT
+SGW	Pred:	还_R ，从_P 宣_R 翻_VT ，又_D 如_VT 字_NA
+SGW	Pred:	苌夜_NA 引_VT 兵_NA 旁_NG 出_V 以_P 蹑_VT 其_NH 后_NG ，旦_NA 而_C 候_VT 骑吿_NA 曰_VT ：骑_NA ，奇寄翻_V
+SGW	Pred:	「贼_NA 诸_NA 营_NA 已_D 空_VT ，不_D 知_VT 所_T8 向_VT
+SGW	Pred:	」登_NA 惊_VT 曰_VT ：「彼_NH 为_VT 何_NH 人_NA ，去_VT 令_VT 我_NH 不_D 知_VT ，来_VT 令_VT 我_NH 不_D 觉_VT ，谓_VT 其_NH 将_D 死_VT ，忽然_D 复_D 来_VT ，复_VT ，扶_VT 又_D 翻_VT
+SGW	Pred:	朕_NH 与_P 此_NH 羌_NA 同_VT 世_NA ，何其_D 厄_VT 哉_T ！」苻登_NA 屡_D 为_P 姚苌_NA 所_T8 挫_VT ，故_C 有_VT 惧苌_VT 之_D 心_NA ，盖_D 至于_VT 是_NH ，登_NA 气_NA 衰_VT 矣_T
+SGW	Pred:	登_V 遂_D 还_VT 雍_NA ，雍_R ，于_R 用_R 翻_V ；下_NG 同_VT
+SGW	Pred:	苌亦_D 还_D 安定_VT
+SGW	Pred:	
+SGW	Pred:	11三河王光_NB 遣_VT 其_NH 弟_NA 右将军_NA 宝_NB 等_T 攻_VT 金城王干归_NB ，宝_NB 及_P 将士_NA 死者_NA 万_A 馀_NA 人_NA 。又_D 遣_VT 其_NH 子_NA 虎贲_NB 中郞_NA 将_VT 纂_NB 击_VT 南羌_NB 彭奚念_NB ，纂_NB 亦_D 败_V 归_V 。光_NB 自_D 将_VT 击_VT 奚念_NB 于_P 枹罕_NC ，克_VT 之_NH ，奚念_NB 奔_VT 甘松_NC 。甘松郡_NC ，乞伏国仁_NB 所_NH 置_VT 。及_C 将_R ，卽_R 亮_R 翻_V ；下_NG 同_V 。贲_R ，音_NA 奔_R 。枹_R ，音_NA 肤_R
+SGW	Pred:	1_R 2冬_NA ，十月_NA ，辛亥_NA ，荆州_NA 刺史_NA 王忱_NA 卒_VT 。忱_NA ，是_SHI 壬_R 翻_VT
+SGW	Pred:	13雍州_NA 刺史_NA 朱序_NA 以_P 老病_VT 求_VT 解_VT 职_NA ；诏_VT 以_P 太子_NA 右衞率_NA 郗恢_NA 为_VT 雍州_NA 刺史_NA ，代_VT 序_NA 鎭_VT 襄阳_NA 。恢_NA ，昙_NA 之_D 子_NA 也_T 。郗昙_NA 见_VT 一_NA 百_NA 卷_NF 穆帝_NA 升平_NA 三年_NA 。率_R ，所_R 律_R 翻_VT 。郗_R ，丑_R 之_R 翻_VT 。昙_R ，徒_R 含_R 翻_VT
+SGW	Pred:	14巴_NC 蜀_NC 人_NA 在_VT 关中_NC 者_NH 皆_D 叛_VT 后秦_NB ，据_VT 弘农_NB 以_P 附_VT 秦_NB 。秦_NB 主登_NB 以_P 窦冲_NB 为_VT 左丞相_NA ，冲_NB 徙_V 屯_VT 华阴_NC 。华_NB ，户化_NB 翻_V 。郗恢_NB 遣_VT 将军_NA 赵睦_NB 守_VT 金墉_NB ，河南_NC 太守_NA 杨佺期_NB 帅_VT 众_NA 军_NA 湖城_NC ，帅_VT ，读_VT 曰_VT 率_R 。击_VT 冲_NB ，走_VT 之_NH
+SGW	Pred:	1_NA 5十一月_NA ，癸酉_NA ，以_P 黄门郞_NA 殷仲堪_NA 为_VT 都督_NA 荆_NA ·益_NA ·宁_NA 三_NA 州_NA 诸_NA 军事_NA 、荆州_NA 刺史_NA ，鎭_VT 江陵_NA 。仲堪_NA 虽_C 有_VT 英誉_NA ，资望_NA 犹_D 浅_VT ，议_VT 者_T8 不_D 以为_VT 允_VT 。到_VT 官_NA ，好_VT 行_VT 小_VT 惠_NA ，好_VT ，呼_VT 到_VT 翻_VT 。纲目_NA 不_D 举_VT
+SGW	Pred:	
+SGW	Pred:	南郡公_NA 桓玄_NA 负_VT 其_NH 才地_NA ，以_P 雄豪_NA 自_D 处_V ，负_VT 其_NH 才_NA 与_P 其_NH 门地_NA 也_T
+SGW	Pred:	处_R ，昌_R 吕_R 翻_VT
+SGW	Pred:	朝廷_NA 疑_VT 而_C 不_D 用_VT ；年_NA 二_NA 十_NA 三_NA ，始_D 拜_VT 太子_NA 洗马_NA
+SGW	Pred:	洗_VT ，悉_D 荐_VT 翻_VT
+SGW	Pred:	玄_NA 尝_D 诣_VT 琅邪王_NA 道子_NA ，値_VT 其_NH 酣_VT 醉_VT ，酣_VT ，户_NA 甘_VT 翻_VT
+SGW	Pred:	张_VT 目_NA 谓_VT 众_NA 客_NA 曰_VT ：「桓温_NA 晚_VT 涂_NA 欲_VT 作_VT 贼_NA ，云何_VT ？」玄_NA 伏_VT 地_NA 流_V 汗_NA ，不_D 能_VT 起_V ；由是_C 益_D 不_D 自_D 安_VT ，常_D 切齿_VT 于_P 道子_NA
+SGW	Pred:	后_NA 出_VT 补_VT 义兴_NA 太守_NA ，守_NA ，式_NA 又_D 翻_VT
+SGW	Pred:	郁郁_VT 不_D 得_VT 志_NA ，歎_VT 曰_VT ：「父_NA 为_VT 九州_NA 伯_NA ，儿_NA 为_VT 五湖_NA 长_NA ！」虞翻_NA 曰_VT ：太湖_NA 有_VT 五_NA 湖_NA ：隔_VT 湖_NA 、洮湖_NA 、射湖_NA 、贵湖_NA 及_C 太湖_NA 为_VT 五_NA 湖_NA ，并_D 太湖_NA 之_D 小_VT 支_NA ，俱_D 连_VT 太湖_NA ，故_C 太湖_NA 兼_D 得_VT 五湖_NA 之_D 名_NA
+SGW	Pred:	韦昭_NA 曰_VT ：胥湖_NA 、蠡湖_NA 、洮湖_NA 、滆湖_NA 就_VT 太湖_NA 而_C 五_NA
+SGW	Pred:	郦善长_NA 谓_VT 长塘湖_NA 、射湖_NA 、贵湖_NA 、隔湖_NA 与_C 太湖_NA 而_C 五_NA
+SGW	Pred:	吴中志_NA 谓_VT 贡湖_NA 、游湖_NA 、胥湖_NA 、梅梁湖_NA 、金鼎湖_NA 为_VT 五_NA 也_T
+SGW	Pred:	长_R ，知_VT 两_NA 翻_VT
+SGW	Pred:	遂_D 弃_VT 官_NA 归_VT 国_NA ，玄_NA 袭封_VT 南郡公_NA
+SGW	Pred:	上_VT 疏_NA 自_NH 讼_VT 曰_VT ：「先_A 臣_NA 勤_VT 王_NA 匡复_V 之_D 勳_NA ，朝廷_NA 遗_VT 之_NH ，臣_NH 不_D 复_D 计_VT
+SGW	Pred:	上_R ，时_D 掌_VT 翻_VT
+SGW	Pred:	复_R ，扶_VT 又_D 翻_VT ；下_NG 同_VT
+SGW	Pred:	至于_VT 先_A 帝_NA 龙_NA 飞_V ，陛下_NH 继_VT 明_NA ，谓_VT 桓温_NA 废_VT 海西_NA 立_VT 简文帝_NA 而_C 帝_NA 继_VT 统_NA 也_T
+SGW	Pred:	易_NB 曰_VT ：明_V 两_A 作_V 离_NA ，大人_NA 以_P 继_VT 明_NA 照_VT 四方_NA
+SGW	Pred:	请_VT 问_VT 谈者_NA ，谁_NH 之_T 由_NA 邪_T ？」疏_NA 寝_V 不_D 报_VT
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	玄_NA 在_VT 江陵_NA ，仲堪_NA 甚_D 敬惮_VT 之_NH
+SGW	Pred:	桓氏_NA 累_VT 世_NA 临_VT 荆州_NA ，玄_NA 复_D 豪横_VT ，横_R ，户_R 孟_R 翻_R
+SGW	Pred:	士民_NA 畏_VT 之_NH ，过_VT 于_P 仲堪_NA
+SGW	Pred:	尝_D 于_P 仲堪_NA 听_VT 事_NA 前_NG 戏_VT 马_NA ，以_P 矟_NA 拟_VT 仲堪_NA
+SGW	Pred:	听_VT ，读_VT 曰_VT 厅_NA
+SGW	Pred:	矟_NA ，色_R 角_NA 翻_VT
+SGW	Pred:	通俗文_NA ：长_NA 丈_NF 八_NA 者_T8 谓_VT 之_NH 矟_NA
+SGW	Pred:	拟_NA 者_T ，举_VT 矟_NA 向_VT 之_NH ，若_VT 将_D 刺_VT 之_NH 也_T
+SGW	Pred:	仲堪_NA 中兵参军_NA 彭城_NA 刘迈_NA 谓_VT 玄_NA 曰_VT ：元帝_NA 谓_VT 江东_NA 置_VT 参军_NA 十_NA 三_NA 曹_NA ，有_VT 中兵_NA 、外兵_NA 、骑兵_NA
+SGW	Pred:	「马矟_NA 有馀_VT ，精_VT 理_NA 不_D 足_VT
+SGW	Pred:	」玄_NA 不_D 悦_VT ，仲堪_NA 为_P 之_NH 失色_VT
+SGW	Pred:	为_NA ，于_R 伪_R 翻_VT
+SGW	Pred:	玄_NA 出_VT ，仲堪_NA 谓_VT 迈_NA 曰_VT ：「卿_NH ，狂_VT 人_NA 也_T ！玄_NA 夜_NA 遣_VT 杀_VT 卿_NH ，我_NH 岂_D 能_VT 相_D 救_VT 邪_T ！」使_VT 迈_NA 下_VT 都_NA 避_VT 之_NH ，都_NA ，谓_VT 建康_NA
+SGW	Pred:	玄_NA 使_VT 人_NA 追_VT 之_NH ，迈_V 仅_D 而_C 获_VT 免_VT
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	征虏参军_NA 豫章_NA 胡藩_NA 过_VT 江陵_NA ，见_VT 仲堪_NA ，说_VT 之_NH 曰_VT ：说_VT ，输_VT 芮翻_NA
+SGW	Pred:	「桓玄_NA 志趣_NA 不_D 常_VT ，每_D 怏怏_VT 于_P 失_VT 职_NA ，怏_VT ，于_P 两_NA 翻_VT
+SGW	Pred:	节下_NA 崇_VT 待_VT 太_D 过_VT ，恐_VT 非_D 将来_NA 之_D 计_NA 也_T ！」仲堪_NA 不_D 悦_VT
+SGW	Pred:	藩_NA 内_NG 弟_NA 章_NA ：十_NA 二_NA 行_NF 本_NA 「弟_NA 」下_NG 有_VT 「同_VT 郡_NA 」二_NA 字_NA ；乙_NA 十_NA 一_NA 行_NF 本_NA 同_VT ；孔_NA 本_NA 同_VT
+SGW	Pred:	罗企生_NA 为_VT 仲堪_NA 功曹_NA ，藩_NA 退_V ，谓_VT 企生_NA 曰_VT ：「殷_NA 侯_NA 倒_VT 戈_NA 以_P 授_VT 人_NA ，必_VT 及_VT 于_P 祸_NA
+SGW	Pred:	君_NH 不_D 早_VT 图_VT 去就_NA ，后_NA 悔_VT 无及_VT 矣_T ！」为_VT 后_NA 桓玄_NA 杀_VT 企生_NA 、仲堪_NA 张本_NA
+SGW	Pred:	企_R ，区智翻_VT
+SGW	Pred:	
+SGW	Pred:	16庚寅_NA ，立_V 皇子_NA 德文_NB 为_VT 琅邪王_NB ，徙_V 琅邪王_NB 道子_NA 为_VT 会𥡴王_NB 。会_NA ，工_VT 外_NG 翻_V
+SGW	Pred:	17十二月_NA ，燕_NA 主_NA 垂_NA 还_VT 中山_NA ，以_P 辽西王农_NA 为_VT 都督_NA 兖_NA 、豫_NA 、荆_NA 、徐_NA 、雍_NA 五_NA 州_NA 诸_NA 军事_NA ，鎭_VT 邺_NA 。雍_NA ，于用_C 翻_VT
+SGW	Pred:	18休官_NA 权千成_NA 据_VT 显亲_NA ，自_D 称_VT 秦州牧_NA 。休官_NA ，杂_VT 夷_NA 部落_NA 之_D 名_NA 。显亲县_NA ，汉_NA 光武_NA 置_VT ，属_VT 汉阳郡_NA 。晋_NA 改_VT 显亲_NA 为_VT 显新_NA ，复_VT 汉阳_NA 为_VT 天水郡_NA 。晋书_NA 姚兴载记_NA ，「权千成_NA 」作_VT 「权干城_NA 」，略阳_NA 豪_VT 族_NA 也_T
+SGW	Pred:	19淸河_NA 人_NA 李辽_NA 上_VT 表_NA 请_VT 敕_VT 兖州_NA 脩_VT 孔子庙_NA ，孔子_NA 庙_NA 在_VT 鲁_NA 。鲁郡_NA ，前汉_NA 属_VT 徐州_NA ，后汉_NA 、晋_NA 属_VT 豫州_NA ，江表_NA 始_D 分_D 属_VT 兖州_NA 。给_VT 户_NA 洒扫_VT 。洒_R ，所_R 卖_VT 翻_VT ；扫_R ，素_R 报_R 翻_VT ；又_D 各_D 如_VT 字_NA 。仍_D 立_VT 庠序_NA ，收敎_VT 学_VT 者_T8 ，曰_VT ：「事_NA 有_VT 如_VT 賖_NA 而_C 寔急_VT 者_T8 ，此_NH 寔义_NA 与_P 虚实_NA 之_D 实_NA 同_VT 。此_NH 之_D 谓_VT 也_T ！」表_NA 不_D 见_VT 省_VT 。省_R ，悉_R 景_R 翻_VT
+SGW	Pred:	十八年_NA （癸巳_NA 、三九_NA 三_A
+SGW	Pred:	1春_NA ，正月_NA ，燕_NB 阳平孝王柔_NB 卒_V
+SGW	Pred:	2权千成_NA 为_P 秦_NA 所_T8 逼_VT ，请_VT 降_VT 于_P 金城王_NA 干归_NA ，降_V ，户_R 江_R 翻_V 。干归_VT 以_P 为_VT 东秦州_NA 刺史_NA 、休官_NA 大都统_NA 、公_NA
+SGW	Pred:	3夏_NA ，四月_NA ，庚子_NA ，燕_NB 主_NA 垂_NB 加_VT 太子宝_NB 大_V 单于_NA ；以_P 安定王_NB 库傉_NA 官_NA 伟_NB 为_VT 太尉_NA ，单_R ，音_NA 蝉_R 。傉_NA ，奴_R 沃_R 翻_V 。范阳王德_NB 为_VT 司徒_NA ，太原王楷_NB 为_VT 司空_NA ，陈留王绍_NB 为_VT 尙书_NA 右仆射_NA 。五月_NA ，立_V 子_NA 熙_NB 为_VT 河间王_NB ，朗_NB 为_VT 渤海王_NB ，鉴_NB 为_VT 博陵王_NB
+SGW	Pred:	4秦_NA 右丞相_NA 窦冲_NA 矜_VT 才_NA 尙_VT 人_NA ，尙_VT 人_NA 者_T8 ，陵_VT 人_NA 而_C 出_VT 其_NH 上_NG 。自_D 请_VT 封_VT 天水王_NB ；秦_NA 主_NA 登_NA 不_D 许_VT 。六月_NA ，冲_NA 自_D 称_VT 秦_NA 王_NA ，改元_V 元光_NA
+SGW	Pred:	5金城王_NA 干归_NA 立_VT 其_NH 子_NA 炽磐_NA 为_VT 太子_NA 。炽_NA ，昌志_NA 翻_VT 。炽磐_NA 勇略_NA 明决_VT ，过_VT 于_P 其_NH 父_NA
+SGW	Pred:	6秋_NA ，七月_NA ，秦_NA 主_NA 登_NA 攻_VT 窦冲_NA 于_P 野人堡_NA ，冲_NA 求_VT 救_VT 于_P 后_NG 秦_NA 。尹纬_NA 言_VT 于_P 后_A 秦_NA 主_NA 苌_NA 曰_VT ：「太子_NA 仁厚_VT 之_D 称_NA ，纬_NA ，于_P 贵_V 翻_NA 。称_NA ，尺证_NA 翻_V ，名称_NA 也_T 。著_VT 于_P 远近_NA ，而_C 英略_NA 未_D 著_VT ，请_VT 使_VT 击_VT 苻登_NA 以_P 著_VT 之_NH 。」苌从_VT 之_NH 。太子兴_NA 将_VT 兵_NA 攻_VT 胡_NB 空_VT 堡_NA ，登_NA 解_V 冲_NA 围_NA 以_C 赴_VT 之_NH 。兴_NA 因_D 袭_VT 平凉_NA ，大_VT 获_VT 而_C 归_VT 。苻登_NA 自_P 大界_NA 之_D 败_NA ，以_P 平凉_NA 为_VT 根本_NA 。苌_NB 使_VT 兴_NB 还_VT 鎭_VT 长安_NA
+SGW	Pred:	7魏王珪_NB 以_P 薛干太_NB 悉_D 伏_V 不_D 送_VT 刘勃_NB 勃_NB ，事_NA 见_VT 上卷_NA 十六年_NA 。八月_NA ，袭_VT 其_NH 城_NA ，屠_VT 之_NH ，太_NB 悉_D 伏_V 奔_VT 秦_NC
+SGW	Pred:	8氐_NA 帅_NA 杨佛嵩_NA 叛_VT ，奔_VT 后秦_NA ，帅_R ，所_R 类_R 翻_V 。杨佺期_NA 、赵睦_NA 追_VT 之_NH ，佺_V ，且_R 缘_R 翻_VT 。九月_NA ，丙戌_NA ，败_VT 佛嵩_NA 于_P 潼关_NA 。后_NA 秦_NA 将_NA 姚崇_NA 救_VT 佛嵩_NA ，败_VT 晋_NA 兵_NA ，败_VT ，补_R 迈_R 翻_V 。赵睦_NA 死_VT
+SGW	Pred:	9冬_NA ，十月_NA ，后_NG 秦_NB 主苌_NB 疾_V 甚_V ，还_VT 长安_NC
+SGW	Pred:	
+SGW	Pred:	10燕_NA 主_NA 垂_VT 议_VT 伐_VT 西燕_NA ，诸_NA 将_NA 皆_D 曰_VT ：「永_D 未_D 有_VT 衅_NA ，我_NH 连_VT 年_NA 征讨_VT ，士卒_NA 疲弊_VT ，未_D 可_VT 也_T
+SGW	Pred:	」范阳王_NA 德_NA 曰_VT ：「永_NA 旣_VT 国_NA 之_D 枝叶_NA ，又_D 僭_VT 举_VT 位号_NA ，惑_VT 民_NA 视听_NA ，宜_VT 先_D 除_VT 之_NH ，以_P 壹_VT 民心_NA
+SGW	Pred:	士卒_NA 虽_C 疲_V ，庸_D 得_VT 已_V 乎_T ！」垂_NB 曰_VT ：「司徒_NA 意_NA 正_D 与_P 吾_NH 同_V
+SGW	Pred:	吾_NH 比_P 老_VT ，叩_VT 囊_NA 底_D 智_NA ，足以_VT 取_VT 之_NH ，比_VT ，必_VT 寐翻_V ，及_V 也_T
+SGW	Pred:	终_D 不_D 复_D 留_VT 此_NH 贼_NA 以_P 累_VT 子孙_NA 也_T
+SGW	Pred:	」垂_NA 不_D 欲_VT 留_VT 慕容永_NA 以_C 累_VT 子孙_NA ，而_C 不_D 知_VT 拓跋珪_NA 已_D 窥𨵦_VT 于_P 代_NA 北_NG 矣_T
+SGW	Pred:	是以_C 有_VT 国_NA 有_VT 家_NA 者_NH ，不_D 恃_VT 无_VT 敌国_NA 外患_NA ，恃_VT 吾_NH 所_NH 以_P 传_VT 国_NA 承_VT 家_NA 者_NH 足以_VT 待_VT 之_NH 耳_T
+SGW	Pred:	累_R ，力_R 瑞_NA 翻_VT
+SGW	Pred:	复_R ，扶_VT 又_D 翻_VT
+SGW	Pred:	遂_D 戒严_V
+SGW	Pred:	
+SGW	Pred:	十一月_NA ，垂_D 发_VT 中山_NA 步骑_NA 七_NA 万_NA ，遣_VT 鎭西将军_NA ·丹杨王_NA 缵_NA 、「缵_R 」，当_VT 作_VT 「瓒_R 」。龙骧将军_NA 张崇_NA 出_VT 井陉_NA ，骧_R ，思_R 将_R 翻_V 。陉_R ，音_NA 刑_R 。攻_VT 西燕_NA 武鄕公友_NA 于_P 晋阳_NC ，征东将军_NA 平规_NA 攻_VT 鎭东将军_NA 段平_NA 于_P 沙亭_NC 。沙亭_NA 在_VT 邺_NC 西南_NG 。西燕_NA 主_NA 永_NA 遣_VT 其_NH 尙书令_NA 刁云_NA 、车骑将军_NA 慕容锺_NA 帅_VT 众_NA 五_NA 万_NA 守_VT 潞川_NA 。帅_R ，读_VT 曰_VT 率_R 。友_R ，永_NA 之_NH 弟_NA 也_T 。十二月_NA ，垂_NA 至_VT 邺_NA
+SGW	Pred:	
+SGW	Pred:	11己亥_NA ，后秦_NA 主_NA 苌_NA 召_VT 太尉_NA 姚旻_NA 、仆射_NA 尹纬_NA 、姚晃_NA 、将军_NA 姚大目_NA 、尙书_NA 狄伯支_NA 入_VT 禁_NA 中_NG ，受_VT 遗诏_NA 辅_VT 政_NA
+SGW	Pred:	苌谓_VT 太子兴_NB 曰_VT ：「有_VT 毁_V 此_NH 诸_A 公_NA 者_NH ，愼_NB 勿_D 受_VT 之_NH
+SGW	Pred:	汝_NH 抚_VT 骨肉_NA 以_P 恩_NA ，接_VT 大臣_NA 以_P 礼_NA ，待_VT 物_NA 以_P 信_NA ，遇_VT 民_NA 以_P 仁_NA ，四_A 者_NH 不_D 失_VT ，吾_NH 无_VT 忧_NA 矣_T
+SGW	Pred:	」姚苌_NA 所以_C 诏_VT 其_NH 子_NA 者_T8 ，胜_VT 于_P 苻健_NA
+SGW	Pred:	姚晃_NA 垂_VT 涕_NA 问_VT 取_VT 苻登_NA 之_D 策_NA ，苌_NA 曰_VT ：「今_NA 大_VT 业_NA 垂_D 成_VT ，兴_VT 才智_NA 足_VT 办_VT ，奚_D 所_T8 复_D 问_VT ！」复_VT ，扶_VT 又_D 翻_VT
+SGW	Pred:	庚子_NA ，苌_NB 卒_V
+SGW	Pred:	年_NA 六_A 十_A 四_A
+SGW	Pred:	兴_NA 祕_V 不_D 发_V 丧_NA ，以_P 其_NH 叔父_NA 緖鎭_NA 安定_V ，硕_NA 德_NA 鎭_VT 阴密_NA ，弟_NA 崇_NB 守_VT 长安_NA
+SGW	Pred:	
+SGW	Pred:	或_NH 谓_VT 硕德_NA 曰_VT ：「公_NH 威名_NA 素_D 重_VT ，部曲_NA 最_D 强_VT ，今_NA 易_VT 世_NA 之_D 际_NA ，必_VT 为_P 朝廷_NA 所_T8 疑_VT ，不如_C 且_D 奔_VT 秦州_NA ，硕德_NA 本_D 起_VT 兵_NA 陇上_NG ，据_VT 冀_NA 城_NA 。观望_VT 事势_NA 。」硕德_NA 曰_VT ：「太子_NA 志度_NA 宽明_VT ，必_VT 无_VT 他_NH 虑_NA 。今_NA 苻登_NA 未_D 灭_VT 而_C 骨肉_NA 相_D 攻_VT ，是_SHI 自_D 亡_VT 也_T ；吾_NH 有_VT 死_NA 而已_T ，终_D 不_D 为_VT 也_T 。」遂_D 往_VT 见_VT 兴_NA ，兴_NA 优礼_VT 而_C 遣_VT 之_NH 。兴_NA 自_D 称_VT 大将军_NA ，以_P 尹纬_NA 为_VT 长史_NA ，狄伯支_NA 为_VT 司马_NA ，帅_VT 众_NA 伐_VT 秦_NA 。帅_NA ，读_VT 曰_VT 率_VT
+SGW	Pred:	十九年_NA （甲午_NA 、三_NA 九_NA 四_A
+SGW	Pred:	
+SGW	Pred:	1春_NA ，章_NA ：十_NA 二_NA 行_NF 本_NA 「春_R 」下_NG 有_VT 「正月_NA 」二_NA 字_NA ；乙_NA 十_NA 一_NA 行_NF 本_NA 同_VT ；孔_NA 本_NA 同_VT ；张_NA 校_NA 同_VT
+SGW	Pred:	秦_NA 主_NA 登闻_VT 后_NG 秦_NA 主_NA 苌_NB 卒_V ，卒_NA ，子_R 恤_R 翻_V ；下_NG 同_VT
+SGW	Pred:	喜_VT 曰_VT ：「姚兴_NA 小儿_NA ，吾_NH 折_VT 杖_NA 笞_VT 之_NH 耳_T
+SGW	Pred:	」乃_D 大_VT 赦_VT ，尽_VT 众_NA 而_C 东_V ，轻_VT 敌_NA 者_T8 败_VT ，宜_VT 苻登_NA 所以_C 不_D 亡_V 于_P 姚苌_NA 之_D 时_NA 而_C 亡_VT 于_P 姚兴_NA 之_D 初_D 立_VT 也_T
+SGW	Pred:	留_V 司徒_NA 安成王_NA 广_NB 守_VT 雍_NA ，雍_NB ，于用_NA 翻_V
+SGW	Pred:	太子崇_NA 守_VT 胡_NB 空堡_NA ；遣_VT 使_NA 拜_VT 金城王_NB 干归_NB 为_VT 左丞相_NA 、河南王_NB 、领_VT 秦_NB ·梁_NA ·益_NB ·凉_NA ·沙_NA 五_A 州牧_NA ，加_VT 九锡_NA
+SGW	Pred:	使_R ，疏_R 吏_R 翻_V ；下_NG 同_VT
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	2初_D ，秃_V 发_NA 思复鞬卒_V ，鞬_V ，居_R 言_R 翻_V
+SGW	Pred:	子_NA 乌孤_NB 立_V
+SGW	Pred:	乌孤_NA 雄勇_VT 有_VT 大_VT 志_NA ，与_P 大将_NA 纷陁_NA 谋_VT 取_VT 凉州_NA
+SGW	Pred:	欲_VT 幷_VT 吕光_NB 也_T
+SGW	Pred:	将_R ，卽_R 亮_R 翻_VT
+SGW	Pred:	纷陁_NB 曰_VT ：「公_NH 必_VT 欲_VT 得_VT 凉州_NB ，宜_VT 先_NG 务_VT 农_NA 讲_VT 武_NA ，礼_VT 俊贤_NA ，修_V 政刑_NA ，然后_C 可_VT 也_T
+SGW	Pred:	」乌孤_NB 从_VT 之_NH
+SGW	Pred:	三河王光_NB 遣_VT 使_NA 拜_VT 乌孤冠军大将军_NA 、河西_NC 鲜卑_NA 大都统_NA
+SGW	Pred:	冠_R ，古_R 玩_R 翻_VT
+SGW	Pred:	乌孤_NB 与_P 其_NH 羣下_NA 谋_VT 之_NH 曰_VT ：「可_VT 受_VT 乎_T ？」皆_D 曰_VT ：「吾_NH 士马_NA 众多_V ，何为_D 属_VT 人_NA ！」石眞_NB 若_NB 留_V 不_D 对_VT
+SGW	Pred:	乌孤_NB 曰_VT ：「卿_NH 畏_VT 吕光_NB 邪_T ？」石眞若留_NB 曰_VT ：「吾_NH 根本_NA 未_D 固_V ，小大_NA 非_D 敌_NA ，若_C 光_NB 致_VT 死_NA 于_P 我_NH ，何以_D 待_VT 之_NH ！不如_VT 受_VT 以_P 骄_V 之_NH ，俟_VT 衅_NA 而_C 动_V ，蔑_D 不_D 克_VT 矣_T
+SGW	Pred:	」乌孤_NB 乃_D 受_VT 之_NH
+SGW	Pred:	纷陁_NB 与_P 石眞_NB 若_VT 留_NA ，皆_D 能_VT 审_VT 宜_NA 应_VT 事_NA 者_NH 也_T
+SGW	Pred:	史_NA 言_VT 秃发乌孤_NA 所以_C 兴_V
+SGW	Pred:	纷_NB 与_C 石眞_NB ，盖_D 皆_D 夷_NB 姓_NA
+SGW	Pred:	
+SGW	Pred:	3二月_NA ，秦_NB 主登_NB 攻_VT 屠_VT 各_A 姚奴_NB 、帛蒲_NB 二_A 堡_NA ，克_VT 之_NH 。二_A 堡_NA ，在_VT 胡_NB 空堡_NA 之_T 东_NG 。屠_NA ，直_V 于_P 翻_NC
+SGW	Pred:	
+SGW	Pred:	4燕_NA 主_NA 垂_VT 留_VT 淸河_NA 公_NA 会_VT 鎭邺_NA ，发_VT 司_NA 、冀_NA 、靑_NA 、兖_NA 兵_NA ，遣_VT 太原王_NA 楷_NA 出_VT 滏口_NA ，滏_R ，音_NA 釜_R
+SGW	Pred:	辽西王农_NB 出_VT 壶关_NC ，垂_NB 自_D 出_VT 沙庭_NC 以_P 击_VT 西燕_NB ，「庭_R 」，当_VT 作_VT 「亭_R 」；其_NH 地_NA 在_VT 邺_NA 西南_NG
+SGW	Pred:	标榜_VT 所_T8 趣_VT ，军_NA 各_D 就_VT 顿_NA
+SGW	Pred:	分_V 处_NA 置_VT 兵_NA 以_P 疑_V 敌_NA ，使_VT 不_D 知_VT 所_NH 备_VT
+SGW	Pred:	趣_R ，七_R 喩_R 翻_VT ；下_NG 同_VT
+SGW	Pred:	西燕_NA 主_NA 永_NA 闻_VT 之_NH ，严_VT 兵_NA 分_VT 道_NA 拒守_V ，聚_VT 粮_NA 台壁_NA ，水经_NA 注_VT ：潞县_NA 北_NG 对_VT 故_VT 台壁_NA ，漳水_NA 出_VT 其_NH 南_NG ，本_D 潞子_NA 所_T8 立_VT 也_T
+SGW	Pred:	魏_NA 收_VT 地形志_NA ，襄垣郡_NA 刈陵县_NA ，汉_NA 、晋_NA 之_D 潞县_NA 也_T ，有_VT 台壁_NA
+SGW	Pred:	遣_VT 从子_NA 征东将军_NA 小逸豆归_NA 、时_NA 西燕_NA 之_D 臣_NA 有_VT 二_NA 逸豆归_NA ，故此_C 称_VT 小逸豆归_NA
+SGW	Pred:	从_R ，才_D 用_VT 翻_VT
+SGW	Pred:	鎭东将军_NA 王次多_NB 、右将军_NA 勒_VT 马驹_NA 帅_VT 众_NA 万_A 馀_NA 人_NA 戍_VT 之_NH
+SGW	Pred:	帅_NA ，读_VT 曰_VT 率_NA
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	5夏_NA ，章_NA ：十_NA 二_NA 行_NF 本_NA 「夏_R 」下_NG 有_VT 「四月_NA 」二_NA 字_NA ；乙_NA 十_NA 一_NA 行_NF 本_NA 同_VT ；孔_NA 本_NA 同_VT ；张_NA 校_NA 同_VT ；退斋_NA 校_NA 同_VT
+SGW	Pred:	秦_NA 主_NA 登_VT 自_P 六陌_NA 趣_VT 废_VT 桥_NA ，趣_VT ，七_NA 喩_NA 翻_VT
+SGW	Pred:	后_NA 秦_NA 始平_NA 太守_NA 姚详_NA 据_VT 马嵬堡_NA 以_P 拒_VT 之_NH
+SGW	Pred:	嵬_R ，五_NA 回_NF 翻_VT
+SGW	Pred:	太子兴_NA 遣_VT 尹纬_NA 将_VT 兵_NA 救_VT 详_NA ，将_R ，卽_R 亮_R 翻_VT
+SGW	Pred:	纬_NB 据_VT 废桥_NA 以_P 待_VT 秦_NB
+SGW	Pred:	秦_NB 兵_NA 争_VT 水_NA ，不_D 能_VT 得_VT ，渴死_V 者_NH 什_A 二_A 、三_A ，因_D 急_D 攻_VT 纬_NB
+SGW	Pred:	兴_NA 驰_VT 遣_VT 狄伯支_NA 谓_VT 纬_NA 曰_VT ：「苻登_NA 穷_VT 寇_NA ，宜_VT 持重_VT 以_C 挫_VT 之_NH
+SGW	Pred:	」纬_NA 曰_VT ：「先_A 帝_NA 登_V 遐_NA ，郑玄_NA 曰_VT ：登_R ，上_NG 也_T ；遐_V ，已_VT 也_T
+SGW	Pred:	上_NG 已_V 者_T8 ，若_C 仙_NA 去_VT 云_T 耳_T
+SGW	Pred:	上_R ，时_D 掌_VT 翻_VT
+SGW	Pred:	人情_NA 扰惧_V ，今_NA 不_D 因_VT 思_VT 奋_V 之_T 力_NA 以_P 禽_VT 敌_NA ，大事_NA 去_V 矣_T ！」遂_D 与_P 秦_NB 战_V ，秦_NB 兵_NA 大_D 败_V
+SGW	Pred:	其_NH 夜_NA ，秦_NB 众_NA 溃_V ，登_NB 单_A 骑_NA 奔_VT 雍_NC ，骑_NA ，奇寄翻_V
+SGW	Pred:	雍_R ，于_R 用_P 翻_V
+SGW	Pred:	太子_NA 崇_NA 及_C 安成王_NA 广_NB 闻_VT 败_VT ，皆_D 弃_VT 城_NA 走_V ；登_NB 至_VT ，无_VT 所_T8 归_VT ，乃_D 奔_VT 平凉_NC ，收集_VT 遗众_NA ，入_VT 马毛山_NA
+SGW	Pred:	平凉城_NA ，在_VT 汉_NA 安定_NA 鹑阴县_NA 界_NA ，后周_NA 始_D 置_VT 平凉郡_NA 及_C 县_NA ，唐_NA 为_VT 原州县_NA
+SGW	Pred:	赫连定_NA 之_T 败_NA ，魏_NB 亦_D 据_VT 马髦岭_NA 以_P 禽_VT 奚斤_NA ，盖_D 平凉_NC 之_D 险要_VT 处_NA 也_T
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	6燕_NB 主_NA 垂_NB 顿_V 军_NA 邺_NC 西南_NG ，月_NA 馀_NA 不_D 进_V
+SGW	Pred:	西燕_NA 主_NA 永_NA 怪_VT 之_NH ，以为_VT 太行道_NA 宽_VT ，行_V ，户_R 刚_R 翻_VT
+SGW	Pred:	疑_NB 垂_D 欲_VT 诡_V 道_NA 取_VT 之_NH ，乃_D 悉_D 敛_VT 诸_A 军_NA 屯_VT 轵关_NC ，轵_V ，知氏_NB 翻_V
+SGW	Pred:	杜_VT 太行口_NA ，惟_D 留_VT 台壁_NA 一_NA 军_NA
+SGW	Pred:	甲戌_NA ，垂_NB 引_VT 大军_NA 出_VT 滏口_NC ，入_VT 天井关_NC
+SGW	Pred:	前汉书_NA 地理志_NA ，上党郡_NA 高都县_NA 有_VT 天井关_NA
+SGW	Pred:	蔡邕_NA 曰_VT ：太行山_NA 上_NG 有_VT 天井关_NA ，在_VT 井_NA 北_NG ，遂_D 因_D 名_VT 焉_T
+SGW	Pred:	余_NH 按_VT 今_NA 泽州_NA 晋城县_NA 有_VT 太行关_NA ，关_NA 内_NG 有_VT 天井泉_NA 三_NA 所_NA ，卽天井关_NA 也_T
+SGW	Pred:	五月_NA ，乙酉_NA ，燕_NA 军_NA 至_VT 台壁_NA ，永_NA 遣_VT 从兄_NA 太尉_NA 大逸豆_NA 归_VT 救_VT 之_NH ，从_VT ，才_D 用_VT 翻_NA
+SGW	Pred:	平_NB 规_VT 击破_VT 之_NH
+SGW	Pred:	小逸豆_NB 归_V 出_V 战_V ，辽西王农_NB 又_D 击破_VT 之_NH ，斩勒_VT 马驹_NA ，禽_VT 王_NA 次多_NB ，遂_D 围_VT 台壁_NA
+SGW	Pred:	永_NA 召_VT 太行军_NA 还_VT ，自_NH 将_VT 精_VT 兵_NA 五_NA 万_NA 以_C 拒_VT 之_NH
+SGW	Pred:	刁云_NA 、慕容锺_NA 震怖_VT ，帅_VT 众_NA 降_VT 燕_NA ，永_NA 诛_VT 其_NH 妻子_NA
+SGW	Pred:	将_R ，卽_R 亮_R 翻_VT
+SGW	Pred:	怖_VT ，普_VT 布_VT 翻_VT
+SGW	Pred:	帅_NA ，读_VT 曰_VT 率_NA
+SGW	Pred:	降_R ，户_R 江_R 翻_V
+SGW	Pred:	己亥_NA ，垂_V 陈_NA 于_P 台壁_NA 南_NG ，陈_NA ，读_VT 曰_VT 阵_NA
+SGW	Pred:	遣_VT 骁骑将军_NA 慕容国_NA 伏_VT 千_NA 骑_NA 于_P 涧_NA 下_NG ；骁_NA ，坚_R 尧_R 翻_R
+SGW	Pred:	骑_VT ，奇_R 寄_R 翻_E
+SGW	Pred:	庚子_NA ，与_P 永_NA 合_D 战_V ，垂_NA 伪_VT 退_V ，永_NA 众_NA 追_VT 之_NH ，行_V 数_NA 里_NF ，国骑_NA 从_P 涧_NA 中_NG 出_VT ，断_VT 其_NH 后_NG ，断_VT ，丁_R 管_R 翻_VT
+SGW	Pred:	诸_NA 军_NA 四面_NA 俱_D 进_VT ，大_VT 破_VT 之_NH ，斩_VT 首_NA 八_NA 千_NA 馀_T7 级_NF ，永_NA 走_V 归_VT 长子_NA
+SGW	Pred:	晋阳_NC 守将_NA 闻_VT 之_NH ，弃_VT 城_NA 走_V
+SGW	Pred:	丹杨_NA 王_NA 瓒_NA 等_T6 进取_VT 晋阳_NA
+SGW	Pred:	瓒_NA ，藏_R 旱_R 翻_VT
+SGW	Pred:	
+SGW	Pred:	7后秦_NA 太子兴_NA 始_D 发_V 丧_NA ，卽_VT 皇帝_NA 位_NA 于_P 槐里_NA ，兴_NA ，字_NA 子略_NA ，苌_NA 之_D 长_NA 子_NA 也_T 。槐里县_NA ，汉_NA 属_VT 扶风_NA ，晋_NA 属_VT 始平郡_NA 。宋白_NA 曰_VT 汉_NA 槐里县_NA 故_VT 城_NA ，在_VT 唐_NA 岐州_NA 兴平县_NA 东南_NG 七_NA 里_NF 。兴旣_NA 破_VT 苻登_NA ，始_D 发_VT 丧_NA 袭_VT 位_NA 。大_VT 赦_VT ，改_VT 元皇初_NA ；遂_D 如_VT 安定_NA 。諡_VT 后秦_NA 主_NA 苌_NA 曰_VT 武昭皇帝_NA ，庙_NA 号_VT 太祖_NA
+SGW	Pred:	
+SGW	Pred:	8六月_NA ，壬子_NA ，追_D 尊会_VT 𥡴王_NB 太妃_NA 郑氏_NB 曰_VT 简文宣太后_NB
+SGW	Pred:	会_R ，工_NA 外_NG 翻_VT
+SGW	Pred:	諡_VT 法_NA ：圣善周_D 闻_VT 曰_VT 宣_NB
+SGW	Pred:	羣_A 臣_NA 谓_VT 宣太后_NA 应_VT 配_VT 食_NA 元帝_NA ，太子_NA 前_NG 率_NA 徐邈_NA 曰_VT ：晋志_NA ：惠帝_NA 建_VT 东宫_NA ，称_VT 中衞率_NA ；泰始_NA 五年_NA ，分_VT 为_VT 左右_NG ，各_D 领_VT 一_NA 军_NA ；惠帝_NA 时_NA ，愍怀_NA 太子_NA 在_VT 东宫_NA ，又_D 加_VT 前后_NG 二_NA 率_NA ；江_NA 左_NG 省_NA 前后_NG 二_NA 率_NA ，孝武_NA 太元_NA 中_NG 又_D 置_VT
+SGW	Pred:	率_R ，所_T8 类翻_V
+SGW	Pred:	「宣太后_NB 平素_V 之_T 时_NA ，不_D 伉俪_V 于_P 先帝_NA ；言_VT 非_D 正妃_NA
+SGW	Pred:	伉_R ，苦_R 浪_R 翻_VT ，敌_NA 也_T
+SGW	Pred:	俪_R ，力_R 计_R 翻_VT ，并_VT 也_T
+SGW	Pred:	至于_P 子孙_NA ，岂_D 可_VT 为_P 祖考_NA 立_VT 配_NA ！」为_R ，于_R 伪_R 翻_VT
+SGW	Pred:	国学_NA 明敎_NA 东莞_NA 臧焘_NA 曰_VT ：据_VT 晋书_NA 儒林传_NA ：元帝_NA 运_VT 锺_NA 百_NA 六_NA ，光_D 启_VT 中兴_VT ，虽_C 尊_VT 儒_NA 劝_VT 学_NA ，亟_VT 降_V 于_P 纶言_NA ，然_C 东序_NA 西胶_NA ，未_D 闻_VT 于_P 絃诵_NA
+SGW	Pred:	明皇_NA 雅_D 爱_VT 流略_NA ，简文_NA 敦悦_VT 典_NA 坟_NA ，乃_D 招集_VT 学徒_NA ，引奖_VT 风烈_NA
+SGW	Pred:	国学_NA 明敎_NA 之_D 官_NA ，当_VT 置_VT 于_P 明帝_NA 、简文_NA 时_NA 也_T
+SGW	Pred:	莞_NA ，音_NA 官_R
+SGW	Pred:	「今_NA 尊号_NA 旣正_V ，则_C 罔_VT 极_NA 之_T 情_NA 申_V ；别_D 建_VT 寝庙_NA ，则_C 严祢_NA 之_T 义_NA 显_V ；严_NA ，尊_NA 也_T
+SGW	Pred:	祢_NA ，父庙_NA 也_T
+SGW	Pred:	系_VT 子_NA 为_VT 称_NA ，兼_D 明_V 贵_NA 之_T 所_NH 由_VT
+SGW	Pred:	系_VT 子_NA 为_VT 称_NA ，简文_NB 系_VT 之_NH 宣太后_NB 之_T 上_NG 也_T
+SGW	Pred:	春秋传_NA 曰_VT ：母_NA 以_P 子_NA 贵_VT
+SGW	Pred:	称_R ，尺_R 证_R 翻_VT
+SGW	Pred:	一_A 举_NA 而_C 允_VT 三_A 义_NA ，不_D 亦_D 善_V 乎_T ！」乃_D 立_V 庙_NA 于_P 太庙_NA 路_NA 西_NG
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	9燕_NA 主_NA 垂_VT 进_VT 军_NA 围_VT 长_A 子_NA
+SGW	Pred:	西燕_NA 主_NA 永_NA 欲_VT 奔_VT 后秦_NA ，侍中_NA 兰英_NA 曰_VT ：「昔_NA 石虎_NA 伐_VT 龙都_NA ，太祖_NA 坚_VT 守_VT 不_D 去_VT ，事_NA 见_VT 九_NA 十_NA 六_NA 卷_NF 晋成帝_NA 咸康_NA 四年_NA
+SGW	Pred:	卒_D 成_VT 大_VT 燕_NA 之_D 基_NA
+SGW	Pred:	卒_V ，子恤_NB 翻_V
+SGW	Pred:	今_NA 垂_D 七_NA 十_NA 老翁_NA ，厌苦_VT 兵革_NA ，终_D 不_D 能_VT 顿_VT 兵_NA 连_VT 岁_NA 以_C 攻_VT 我_NH 也_T ；但_D 当_VT 城_NA 守_VT 以_C 疲_VT 之_NH
+SGW	Pred:	」永_D 从_VT 之_NH
+SGW	Pred:	兵交_NA 之_T 变_NA ，其_NH 应_NA 无_VT 穷_NA ，惟_D 知_VT 彼_NH 知_VT 己_NH 者_NH ，乃_D 能_VT 百_A 战_V 不_D 殆_V 耳_T
+SGW	Pred:	慕容永_NA 欲_VT 以_P 棘城_NA 之_D 事_NA 自_D 况_VT ，当时_NA 与_P 之_NH 共_D 守_VT 长_NA 子_NA 者_T8 ，果_D 能_VT 效_VT 死_NA 不_D 去_VT ，若_C 慕容皝_NA 之_D 诸_NA 臣_NA 乎_T
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	10秦_NB 主登_NB 遣_VT 其_NH 子_NA 汝阴王宗_NB 为_VT 质_NA 于_P 河南王干归_NB 以_P 请_VT 救_NA ，质_NA ，音_NA 致_R
+SGW	Pred:	进_VT 封_VT 干归_NA 梁_NA 王_NA ，纳_VT 其_NH 妹_NA 为_VT 梁_NA 王_NA 后_NA ；干归_NA 遣_VT 前_A 军_NA 将军_NA 乞伏_NA 益州_NA 等_T6 帅_VT 骑_NA 一_NA 万_NA 救_VT 之_NH
+SGW	Pred:	帅_NA ，读_VT 曰_VT 率_NA
+SGW	Pred:	骑_VT ，奇_R 寄_R 翻_E
+SGW	Pred:	秋_NA ，七月_NA ，登_NB 引_VT 兵_NA 出_V 迎_VT 干归_NB 兵_NA ，后_NG 秦_NB 主_NA 兴_NB 自_P 安定_NC 如_VT 泾阳_NC ，与_P 登_NB 战_V 于_P 山_NA 南_NG ，马髦山_NC 南_NG 也_T
+SGW	Pred:	执_VT 登_NB ，杀_VT 之_NH
+SGW	Pred:	年_NA 五_A 十_A 二_A
+SGW	Pred:	悉_D 散_VT 其_NH 部众_NA ，使_VT 归_VT 农业_NA ；徙_VT 阴密_NA 三_NA 万_NA 户_NA 于_P 长安_NA ，以_P 李后_NA 赐_VT 姚晃_NA
+SGW	Pred:	益州_NA 等_T6 闻_VT 之_NH ，引_VT 兵_NA 还_VT
+SGW	Pred:	还_R ，从_P 宜_R 翻_VT ，又_D 如_VT 字_NA
+SGW	Pred:	秦_NA 太子崇_NA 奔_VT 湟中_NG ，卽_VT 帝位_NA ，改元_V 延初_NA ；諡_VT 登_NA 曰_VT 高皇帝_NA ，庙号_V 太宗_NA
+SGW	Pred:	
+SGW	Pred:	11后_NG 秦_NB 安南将军_NA 强熙_NB 、鎭远将军_NA 强章_NB ：十_A 二_A 行_NA 本_D 「强_R 」作_VT 「杨_R 」；乙_A 十_A 一_A 行_NA 本_D 同_V 。多_D 叛_VT ，推_VT 窦冲_NB 为_VT 主_NA 。后_NG 秦_NB 主_NA 兴_NB 自_D 将_D 讨_VT 之_NH ，军_NA 至_VT 武功_NC ，多_NB 兄_NA 子_NA 良国_NB 杀_VT 多_NB 而_C 降_V ，强_R ，其_NH 两_A 翻_V 。将_R ，卽亮_R 翻_V 。降_R ，户_R 江_R 翻_V 。熙_NB 奔_VT 秦州_NC ，冲_NB 奔_VT 汧川_NC ，汧川_NA 卽扶风_NA 汧县_NC 之_T 地_NA 。汧_R ，苦_R 坚_R 翻_NB 。汧川氐_NB 仇高_NB 执_VT 送_VT 之_NH
+SGW	Pred:	12三河王光_NB 以_P 子_NA 覆_NB 为_VT 都督_NA 玉门_NC 以_P 西_NG 诸_A 军事_NA 、西域_NC 大_V 都护_NA ，鎭_VT 高昌_NC ；命_VT 大臣_NA 子弟_NA 随_VT 之_NH
+SGW	Pred:	13八月_NA ，己巳_NA ，尊_VT 皇太妃_NA 李氏_NA 为_VT 皇太后_NA ，居_VT 崇训宫_NA
+SGW	Pred:	
+SGW	Pred:	14西燕_NA 主_NA 永_NA 困急_VT ，遣_VT 其_NH 子_NA 常山_NA 公_NA 弘_NA 等_T6 求_VT 救_NA 于_P 雍州_NA 刺史_NA 郗恢_NA ，郗_NA ，丑_VT 之_NH 翻_VT
+SGW	Pred:	幷献_VT 玉玺_NA 一_A 纽_NA
+SGW	Pred:	玺_NA ，斯氏_ND 翻_VT
+SGW	Pred:	恢_NA 上_VT 言_NA ：「垂_D 若_C 幷永_VT ，为_VT 患_NA 益_D 深_VT ，不如_C 两_NA 存_VT 之_NH ，可以_VT 乘_VT 机_NA 双_VT 毙_VT
+SGW	Pred:	」帝_NA 以为_VT 然_VT ，昭靑_NA ·兖_NA 二_NA 州_NA 刺史_NA 王恭_NA 、豫州_NA 刺史_NA 庾楷_NA 救_VT 之_NH
+SGW	Pred:	楷_NA ，亮_NA 之_D 孙_NA 也_T
+SGW	Pred:	庾氏_NA 为_P 桓温_NA 所_T8 诛_VT ，楷_NA 复_D 不_D 能_VT 振_VT ，自此_D 微_VT 矣_T
+SGW	Pred:	永_NA 恐_VT 晋_NA 兵_NA 不_D 出_VT ，又_D 遣_VT 其_NH 太子_NA 亮_NA 来_VT 为_VT 质_NA ，质_R ，音_NA 致_R
+SGW	Pred:	平规_NA 追_VT 亮_NA 及_C 于_P 高都_NA ，获_VT 之_NH
+SGW	Pred:	高都县_NA 属_VT 上党郡_NA ，隋_NA 为_VT 泽州_NA 丹川县_NA ，唐_NA 为_VT 晋城县_NA
+SGW	Pred:	永_NA 又_D 吿_VT 急_NA 于_P 魏_NA ，魏_NA 王_NA 珪_NA 遣_VT 陈留_NA 公_NA 虔_NA 、将军_NA 庾岳_NA 帅_VT 骑_NA 五_NA 万_NA 东_NG 渡_VT 河_NA ，屯_VT 秀容_NA 以_C 救_VT 之_NH
+SGW	Pred:	此_NH 北秀容_NA 也_T ，在_VT 汉_NA 定襄郡_NA 界_NA ，后魏_NA 置_VT 秀容郡_NA 秀容县_NA
+SGW	Pred:	又_D 立_VT 秀容_NA 护军_NA 于_P 汾水_NA 西北_NG 六_NA 十_NA 里_NF ，徙_VT 北_NG 秀容_NA 胡_NA 人_NA 居_VT 之_NH ，此_NH 南_NG 秀容_NA 也_T
+SGW	Pred:	刘昫_NA 曰_VT ：忻州_NA 秀容县_NA ，汉_NA 汾阳县_NA 地_NA ，隋_NA 自_P 秀容_NA 故_VT 城_NA 移_VT 于_P 此_NH ，因_D 更_VT 名_NA
+SGW	Pred:	帅_NA ，读_VT 曰_VT 率_NA
+SGW	Pred:	骑_VT ，奇_R 寄_R 翻_E
+SGW	Pred:	虔_NA ，纥根_NA 之_D 子_NA 也_T
+SGW	Pred:	纥根_NA 见_VT 一_NA 百_NA 四_NA 卷_NF 元年_NA
+SGW	Pred:	纥_V ，户_R 骨_R 翻_VT
+SGW	Pred:	晋_NA 、魏_NA 兵_NA 皆_D 未_D 至_VT ，大逸_NA 豆归_NA 部将_NA 伐勤_NA 等_T6 开_VT 门_NA 内_NG 燕_NA 兵_NA ，燕_NA 人_NA 执_VT 永_NA ，斩_VT 之_NH ，幷_NA 斩_VT 其_NH 公卿_NA 大将_NA 刁云_NA 、大逸_NA 豆归_NA 等_T6 三_NA 十_NA 馀_T7 人_NA ，将_NA ，卽亮_NA 翻_VT
+SGW	Pred:	得_VT 永_NB 所_NH 统_V 八_A 郡_NA 七_A 万_A 馀_NA 户_NA 及_C 秦_NB 乘舆_NA 、服御_NA 、伎乐_NA 、珍宝_NA 甚_D 众_V
+SGW	Pred:	乘_NA ，绳_NA 证_VT 翻_VT
+SGW	Pred:	燕_NA 主_NA 垂_NA 以_P 丹杨王_NA 瓒_NA 为_VT 幷州_NA 刺史_NA ，鎭_VT 晋阳_NA ；宜都王_NA 凤_NA 为_VT 雍州_NA 刺史_NA ，鎭_NA 长_NA 子_NA
+SGW	Pred:	永尙书_NA 仆射_NA 昌黎_NA 屈遵_NA 、瓒_NA ，藏_R 旱_R 翻_NA
+SGW	Pred:	雍_R ，于_R 用_P 翻_V
+SGW	Pred:	屈_VT ，居_VT 勿_D 翻_V
+SGW	Pred:	尙书_VT 阳平王德_NA 、祕书监_NA 中山_NA 李先_NA 、太子詹事_NA 渤海_NA 封则_NA 、黄门郞_NA 太山_NA 胡母亮_NA 、中书郞_NA 张腾_NA 、尙书_NA 郞燕郡_NA 公孙表_NA 皆_D 随_VT 才_NA 擢_VT 敍_NA
+SGW	Pred:	李先_NA 、公孙表_NA ，后_NA 皆_D 仕_V 魏_NA ，位_NA 通显_VT
+SGW	Pred:	
+SGW	Pred:	九月_NA ，垂_NB 自_P 长子_NA 如_VT 邺_NC
+SGW	Pred:	
+SGW	Pred:	15冬_NA ，十月_NA ，秦_NA 主_NA 崇_NA 为_P 梁_NA 王_NA 干归_NB 所_T8 逐_VT ，奔_VT 陇西王_NA 杨定_NA
+SGW	Pred:	定留_NA 司马_NA 邵彊_NA 守_VT 秦州_NA ，帅_VT 众_NA 二_NA 万_NA 与_P 崇_NA 共_D 攻_VT 干归_NA ，干归_NA 遣_VT 凉州_NA 牧_NA 轲弹_NA 、秦州_NA 牧_NA 益州_NA 、立义将军_NA 诘归_NA 帅_VT 骑_NA 三_NA 万_NA 拒_VT 之_NH
+SGW	Pred:	轲弹_NB 、益州_NB 、诘归_NB 皆_D 乞伏氏_NB 也_T
+SGW	Pred:	凉_NB 、秦_NB 二_A 州牧_NA ，干归_NB 所_NH 置_VT ，非_D 能_VT 有_VT 其_NH 地_NA
+SGW	Pred:	「轲弹_R 」，晋书_NA 载记_NA 作_VT 「轲殚_R
+SGW	Pred:	帅_NA ，读_VT 曰_VT 率_R ；下_NG 同_VT
+SGW	Pred:	益州_NA 与_P 定_NA 战_V ，败_VT 于_P 平州_NA ，载记_NA 作_VT 「平川_NA 」，当_VT 从_VT 之_NH
+SGW	Pred:	轲_NB 弹_VT 、诘_VT 归_NB 皆_D 引退_V ，轲_NB 弹_VT 司马_NA 翟瑥_NB 奋_V 剑_NA 怒_VT 曰_VT ：瑥_NA ，音_NA 温_R
+SGW	Pred:	「主上_NA 以_P 雄武_VT 开_VT 基_NA ，所_T8 向_VT 无敌_VT ，威_NA 振_VT 秦_NA 、蜀_NA
+SGW	Pred:	将军_NA 以_P 宗室_NA 居_VT 元帅_NA 之_D 任_NA ，帅_R ，所_R 类_R 翻_V
+SGW	Pred:	当_VT 竭力_VT 致_VT 命_NA 以_C 佐_VT 国家_NA
+SGW	Pred:	今_NA 秦州_NA 虽_C 败_VT ，二_NA 军_NA 尙_NA 全_VT ，柰何_D 望_VT 风_NA 退衂_V ，衂_V ，女_R 六_R 翻_VT
+SGW	Pred:	将_D 何_NH 面_V 以_P 见_VT 主上_NA 乎_T ！瑥_NB 虽_C 无_VT 任_NA ，独_D 不_D 能_VT 以_P 便宜_NA 斩_VT 将军_NA 乎_T ！」轲_NB 弹_VT 谢_VT 曰_VT ：「向者_NA 未_D 知_VT 众_A 心_NA 何如_V 耳_T
+SGW	Pred:	果_D 能_VT 若是_V ，吾_NH 敢_VT 爱_VT 死_NA ！」乃_D 帅_VT 骑_NA 进_VT 战_V ，益州_NB 、诘归_NB 亦_D 勒_VT 兵_NA 继_VT 之_NH ，大_VT 败_V 定兵_NA ，败_VT ，补_R 迈翻_V
+SGW	Pred:	杀_VT 定_NB 及_C 崇_NB ，斩_VT 首_NA 万_A 七_A 千_A 级_NA
+SGW	Pred:	穆帝_NA 永和_NA 七年_NA ，秦_NA 王_NA 健_NA 改元_V 卽_VT 位_NA ，历_VT 六_NA 主_NA ，四_NA 十_NA 二_NA 年_NA 而_C 亡_VT
+SGW	Pred:	干归_NB 于是_C 尽_D 有_VT 陇西_NC 之_T 地_NA
+SGW	Pred:	乞伏_VT 始_D 得_VT 秦州_NA
+SGW	Pred:	
+SGW	Pred:	定_NA 无_VT 子_NA ，其_NH 叔父_NA 佛狗_NA 之_D 子_NA 盛_NA ，先_D 守_VT 仇池_NA ，自_D 称_VT 征西将军_NA 、秦州_NA 刺史_NA 、公_NA ，諡_VT 定_NA 为_VT 武王_NA ；仍_D 遣_VT 使_NA 来_VT 称_VT 藩_NA 。使_NA ，疏_VT 吏_NA 翻_VT 。秦_NA 太子宣_NA 奔_VT 盛_NA ，分章_NA ：十_NA 二_NA 行_NF 本_NA 「分_R 」上_NG 有_VT 「盛_R 」字_NA ；乙_NA 十_NA 一_NA 行_NF 本_D 同_VT ；孔_NA 本_NA 同_VT 。氐_NA 、羌_NA 为_VT 二_NA 十_NA 部_NA 护军_NA ，各_D 为_VT 鎭_NA 戍_NA ，不_D 置_VT 郡县_NA
+SGW	Pred:	16燕_NB 主_NA 垂_NB 东_NG 巡_VT 阳平_NC 、平原_NC ，命_VT 辽西王农_NB 济_VT 河_NC ，与_P 安南将军_NA 尹国_NB 略_VT 地_NA 靑_NB 、兖_NB ，农_NB 攻_VT 廪丘_NB ，国_NB 攻_VT 阳城_NB ，皆_D 拔_VT 之_NH 。东平_NC 太守_NA 韦简_NB 战死_V ，高平_NB 、泰山_NB 、琅邪_NB 诸_A 郡_NA 皆_D 委_VT 城_NA 奔溃_V ，农_NB 进_V 军_NA 临海_NC ，临_VT 东海_NC 也_T 。徧_NB 置_VT 守宰_NA
+SGW	Pred:	
+SGW	Pred:	17柔然_NB 曷多汗_NB 弃_VT 其_NH 父_NA ，与_P 社崙_NB 率_VT 众_NA 西_NG 走_V ；柔然_NB 降_VT 魏_NB ，见_VT 上卷_NB 十六年_NA
+SGW	Pred:	汗_NA ，音_NA 寒_R
+SGW	Pred:	崙_R ，卢_R 昆_R 翻_VT
+SGW	Pred:	魏_NB 长孙肥_NB 追_VT 之_NH ，及_V 于_P 上郡_NC 跋那山_NC ，斩_VT 曷多汗_NB
+SGW	Pred:	社崙_NB 收_VT 其_NH 馀众_NA 数_A 百_A ，奔𤴓_V 候跋_NB ，𤴓候跋_NB 处_V 之_NH 南鄙_NA
+SGW	Pred:	处_R ，昌_R 吕_R 翻_VT
+SGW	Pred:	社崙_NB 袭_VT 𤴓候跋_NB ，杀_VT 之_NH ；𤴓候跋_NB 子_NA 启跋_NB 、吴颉_NB 等_T 皆_D 奔_VT 魏_NC
+SGW	Pred:	社崙_NA 掠_VT 五原_NC 以西_NG 诸_NA 部_NA ，走_V 度_VT 漠_NA 北_NG
+SGW	Pred:	柔然_V 自_P 此_NH 遂_D 为_VT 魏_NB 患_NA
+SGW	Pred:	据_VT 载记_NA ，以_P 社崙_NA 为_VT 河西_NG 鲜卑_NA ，则_D 柔然_VT 亦_D 鲜卑_NA 种_NA 也_T
+SGW	Pred:	
+SGW	Pred:	18十一月_NA ，燕_NA 辽西王农_NA 败_VT 辟闾浑_NA 于_P 龙水_NA ，郭缘生_NA 述征记_NA 曰_VT ：逢山_NA 在_VT 广固_NA 南_NG 二_NA 十_NA 里_NF ，洋水_NA 历_VT 其_NH 阴_NA 而_C 东北_NG 流_V ，世_NA 谓_VT 之_NH 石沟水_NA ，出_VT 委粟山_NA 北_NG ，而_C 东_NG 注_VT 于_P 巨洋水_NA ，谓_VT 之_NH 石沟口_NA 。然_C 是_SHI 水_NA 下_A 流_V 亦_D 有时_D 通_VT 塞_NA ，及_P 其_NH 春夏_NA 水_NA 泛_VT ，川澜_NA 无_D 辍_VT ，亦_D 或_NH 谓_VT 之_NH 龙泉水_NA 。败_VT ，补_VT 迈翻_V 。遂_D 入_VT 临淄_NA 。十二月_NA ，燕_NA 主_NA 垂_NA 召_VT 农_NA 等_T6 还_VT
+SGW	Pred:	19秦_NB 主_NA 兴_NB 遣_VT 使_NA 与_P 燕_NB 结_V 好_NA ，使_V ，疏_V 吏_R 翻_V 。好_V ，呼_VT 到_R 翻_V 。是_NH 岁_NA 前_NG 秦_NB 灭_V ，通鑑_NB 始_D 书_VT 后_V 秦_NB 为_VT 秦_NB 。幷送_VT 太子宝_NB 之_T 子_NA 敏_NB 于_P 燕_NB ，燕_NB 封_VT 敏_NB 为_VT 河东公_NB
+SGW	Pred:	20梁王干_NB 归_V 自_D 称_VT 秦王_NB ，大_D 赦_VT 。自_P 此_NH 以_P 后_NG ，史_NA 以_P 西秦_NB 别_V 之_NH
+SGW	Pred:	二十年_NA （乙未_NA 、三九五_NA
+SGW	Pred:	1春_NA ，正月_NA ，燕_NA 主_NA 垂_D 遣_VT 散骑常侍_NA 封则_C 报_VT 聘_NA 于_P 秦_NA ；散_VT ，悉_D 亶_VT 翻_NB 。骑_NA ，奇寄翻_V 。遂_D 自_P 平原_NC 狩_V 于_P 广川_NC 、勃海_NA 、长乐_NA 而_C 归_VT 。汉高祖_NA 置_VT 信都郡_NA ，景帝_NA 二年_NA ，为_VT 广川国_NA ，明帝_NA 更_VT 名_NA 乐成_NA ，安帝_NA 改_VT 曰_VT 安平_NA ，晋_NA 改_VT 曰_VT 长乐郡_NA ，又_D 别_D 立_VT 广川郡_NA 。乐_NA ，音_NA 洛_R
+SGW	Pred:	2西秦王干归_NB 以_P 太子炽磐_NB 领_VT 尙书令_NA ，炽_R ，昌_R 志_R 翻_V 。左长史_NA 边芮_NB 为_VT 左仆射_NA ，右长史_NA 祕_NB 宜_VT 为_VT 右仆射_NA ，置_VT 官_NA 皆_D 如_VT 魏武_NB 、晋文_NB 故事_NA ，然_C 犹_D 称_VT 大单于_NA 、大将军_NA 。单_R ，音_NA 蝉_R 。边芮_NB 等_T 领_VT 府佐_NA 如_VT 故_NA
+SGW	Pred:	3薛干太_NB 悉_D 伏_V 自_P 长安_NC 亡_V 归_VT 岭_NA 北_NG 。岭_NC 北_NG ，谓_VT 九嵕岭_NC 北_NG 。十八年_NA ，太_NB 悉_D 伏_V 奔_VT 秦_NC 。上郡_NC 以_P 西_NG 鲜卑_NB 杂_V 胡_NB 皆_D 应_VT 之_NH
+SGW	Pred:	4二月_NA ，甲寅_NA ，尙书令_NA 陆纳_NB 卒_V
+SGW	Pred:	5三月_NA ，庚辰_NA 朔_NA ，日_NB 有_VT 食_VT 之_NH
+SGW	Pred:	6皇太子_NA 出_VT 就_VT 东宫_NA ，以_P 丹杨尹_NA 王雅_NA 领_VT 少傅_NA
+SGW	Pred:	
+SGW	Pred:	时_NA 会𥡴_NA 王道子_NA 专权_V 奢纵_VT ，嬖人_NA 赵牙_NA 本_D 出_VT 倡优_NA ，少_VT ，诗_NA 照_VT 翻_VT
+SGW	Pred:	会_R ，工_NA 外_NG 翻_VT
+SGW	Pred:	倡_NA ，音_NA 昌_V
+SGW	Pred:	茹千秋_NA 本_D 钱唐_NA 捕_VT 贼吏_NA ，钱唐县_NA ，前汉_NA 属_VT 会𥡴郡_NA ，后汉_NA 属_VT 吴郡_NA
+SGW	Pred:	钱唐记_NA 曰_VT ：郡_NA 议曹_NA 华信_NA 议_VT 立_VT 此_NH 塘_NA 以_P 防_VT 海水_NA ，始_D 开_VT ，募_VT 能_VT 致_VT 土_NA 一_NA 斛_NF 者_T8 卽_NF 与_VT 钱_NA 一_NA 千_NA
+SGW	Pred:	旬月_NA 之_D 间_NG ，来_VT 者_T8 云_D 集_VT ，塘_NA 未_D 成_VT 而_C 不_D 复_D 取_VT ，于是_C 载_VT 土_NA 石_NA 者_T8 皆_D 委_VT 之_NH 而_C 去_VT ，塘_NA 以_P 之_NH 成_VT ，故_C 名_NA 钱塘_NA
+SGW	Pred:	杨正衡_NA 曰_VT ：茹_R ，音_NA 如_VT ，又_D 而_C 据_R 翻_VT ；浙_NA 间_NG 旧_NA 有_VT 此_NH 姓_NA
+SGW	Pred:	皆_D 以_P 谄_VT 赂_NA 得_VT 进_VT
+SGW	Pred:	道子_NA 以_P 牙_NA 为_VT 魏郡_NA 太守_NA ，千秋_NA 为_VT 骠骑谘议参军_NA
+SGW	Pred:	骠_NA ，频_R 召_R 翻_VT ，今_NA 匹_R 妙_R 翻_VT
+SGW	Pred:	骑_VT ，奇_R 寄_R 翻_E
+SGW	Pred:	牙_NA 为_P 道子_NA 开_VT 东_NG 第_NA ，筑_VT 山_NA 穿_VT 池_NA ，为_VT ，于_R 伪_R 翻_VT
+SGW	Pred:	功用_NA 钜万_A
+SGW	Pred:	帝_NA 尝_D 幸_VT 其_NH 第_NA ，谓_VT 道子_NA 曰_VT ：「府_NA 内_NG 乃_D 有_VT 山_NA ，甚_D 善_VT ；然_C 修饰_VT 太_D 过_VT
+SGW	Pred:	」道子_NB 无_VT 以_P 对_VT
+SGW	Pred:	帝_NA 去_VT ，道子_NA 谓_VT 牙_NA 曰_VT ：「上_NA 若_C 知_VT 山_NA 是_SHI 人力_NA 所_T8 为_VT ，尔_NH 必_VT 死_VT 矣_T ！」牙_NA 曰_VT ：「公_NH 在_VT ，牙_NA 何_D 敢_VT 死_VT ！」营作_VT 弥_D 甚_VT
+SGW	Pred:	千秋_NA 卖_VT 官_NA 招_VT 权_NA ，聚_V 货_NA 累_V 亿_A
+SGW	Pred:	博平_NA 令_NA 吴兴_NA 闻_VT 人_NA 奭_NA 上_VT 疏_NA 言_VT 之_NH ，博平县_NA ，汉_NA 属_VT 东郡_NA ，晋_NA 属_VT 平原郡_NA ；江_NA 左_NG 属_VT 魏郡_NA ，与_P 郡_NA 皆_D 侨_D 置_VT
+SGW	Pred:	帝_NA 益_D 恶_VT 道子_NA ，恶_VT ，乌路_NA 翻_VT
+SGW	Pred:	而_C 逼_VT 于_P 太后_NA ，不忍_VT 废黜_VT
+SGW	Pred:	乃_D 擢_VT 时望_NA 及_C 所_T8 亲幸_VT 王恭_NA 、郗恢_NA 、殷仲堪_NA 、王珣_NA 、王雅_NA 等_T6 ，使_VT 居_VT 内外_NG 要_VT 任_NA 以_P 防_VT 道子_NA ；道子_NA 亦_D 引_VT 王国宝_NA 及_C 国宝_NA 从弟_NA 琅邪_NA 内史_NA 緖_NA 以_P 为_VT 心腹_NA
+SGW	Pred:	从_R ，才_D 用_VT 翻_VT
+SGW	Pred:	由是_C 朋党_NA 竞_D 起_V ，无_D 复_VT 向时_NA 友爱_VT 之_T 驩_NA 矣_T ；太后_NA 每_D 和解_VT 之_NH
+SGW	Pred:	中书侍郞_NA 徐邈_NA 从容_VT 言_VT 于_P 帝_NA 曰_VT ：从_VT ，千_NA 容_NA 翻_VT
+SGW	Pred:	「汉_NA 文明_VT 主_NA ，犹_D 悔_VT 淮南_NA ；世祖_NA 聪达_VT ，负愧_VT 齐_NA 王_NA ；淮南事见_VT 十_NA 四_NA 卷_NF 汉文帝_NA 六年_NA
+SGW	Pred:	齐王事见_VT 八_NA 十_NA 一_NA 卷_NF 武帝_NA 太康_NA 四年_NA
+SGW	Pred:	兄弟_NA 之_D 际_NA ，实_D 为_VT 深愼_VT
+SGW	Pred:	会_D 𥡴王_NA 虽_C 有_VT 酣媟_VT 之_D 累_NA ，媟_NA ，私_R 列_NF 翻_VT
+SGW	Pred:	累_R ，力_R 瑞_NA 翻_VT
+SGW	Pred:	宜_VT 加_VT 弘_VT 贷_VT ，消散_VT 羣_A 议_NA ；外_NG 为_VT 国家_NA 之_D 计_NA ，内_NG 慰_VT 太后_NA 之_D 心_NA
+SGW	Pred:	」帝_NA 纳_VT 之_NH ，复_D 委任_VT 道子_NA 如_VT 故_NA
+SGW	Pred:	复_R ，扶_VT 又_D 翻_VT
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	7初_NA ，杨定_NA 之_D 死_VT 也_T ，天水_NA 姜乳_NA 袭据_VT 上邽_NA ；夏_NA ，四月_NA ，西秦王_NA 干归_NA 遣_VT 乞伏_NA 益州_NA 帅_VT 骑_NA 六_NA 千_NA 讨_VT 之_NH
+SGW	Pred:	左仆射_NA 边芮_NA 、民部_NA 尙书_NA 王松寿_NA 曰_VT ：「益州_NA 屡_D 胜_VT 而_C 骄_VT ，不_D 可_VT 专_D 任_VT ，必_VT 以_P 轻_VT 敌_NA 取_VT 败_NA
+SGW	Pred:	」干_NA 归_VT 曰_VT ：「益州_NA 骁勇_VT ，诸_NA 将_NA 莫_D 及_VT ，帅_NA ，读_VT 曰_VT 率_NA
+SGW	Pred:	骑_VT ，奇_R 寄_R 翻_E
+SGW	Pred:	骁_NA ，坚_R 尧_R 翻_VT
+SGW	Pred:	将_R ，卽_R 亮_R 翻_VT
+SGW	Pred:	当_VT 以_P 重佐_NA 辅_VT 之_NH 耳_T
+SGW	Pred:	」乃_D 以_P 平北将军_NA 韦虔_NB 为_VT 长史_NA ，左禁将军_NA 务和_NB 为_VT 司马_NA
+SGW	Pred:	务_NB ，姓_NA 也_T
+SGW	Pred:	古_NA 有_VT 务光_NB
+SGW	Pred:	至_VT 大寒岭_NA ，大寒岭_NA 在_VT 上邽_NA 西_NG
+SGW	Pred:	益州_NB 不_D 设_VT 部伍_NA ，听_VT 将士_NA 游畋_V 纵_V 飮_NA ，令_VT 曰_VT ：「敢_VT 言_VT 军事_NA 者_NH 斩_VT ！」虔_NB 等_T 谏_VT 不_D 听_VT ，乳_NA 逆_D 击_VT ，大_D 破_V 之_NH
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	8魏_NA 王_NA 珪_NA 叛_VT 燕_NA ，侵逼_VT 附_VT 塞_V 诸_NA 部_NA
+SGW	Pred:	五月_NA ，甲戌_NA ，燕_NA 主_NA 垂_NA 遣_VT 太子宝_NA 、辽西王_NA 农_NA 、赵_NA 王_NA 麟_NA 帅_VT 众_NA 八_NA 万_NA ，自_P 五原_NA 伐_VT 魏_NA ，范阳_NA 王_NA 德_NA 、陈留_NA 王_NA 绍_NA 别_D 将_VT 步骑_NA 万_NA 八_NA 千_NA 为_VT 后继_NA
+SGW	Pred:	散骑常侍_NA 高湖_NA 谏_VT 曰_VT ：散_VT ，悉_D 亶_VT 翻_VT
+SGW	Pred:	骑_VT ，奇_R 寄_R 翻_E
+SGW	Pred:	「魏_NA 与_P 燕_NA 世_NA 为_VT 婚姻_NA ，代王_NB 什翼犍_NA 两_A 娶_VT 于_P 慕容_NA ，皆_D 早_VT 卒_V
+SGW	Pred:	哀帝_NA 隆和_NA 元年_NA ，什翼犍_NA 纳_VT 女_NA 于_P 燕_NA ，燕_NA 又_D 以_P 女_NA 妻_VT 之_NH
+SGW	Pred:	彼_NH 有_VT 内_A 难_NA ，燕_NA 实_D 存_VT 之_NH ，事_NA 见_VT 一_NA 百_NA 六_NA 卷_NF 十_NA 一_NA 年_NA 及_C 一_NA 百_NA 七_NA 卷_NF 十_NA 二_NA 年_NA
+SGW	Pred:	难_VT ，乃_D 旦_NA 翻_VT
+SGW	Pred:	其_NH 施_VT 德_NA 厚_V 矣_T ，结_V 好_NA 久_V 矣_T
+SGW	Pred:	间_VT 以_P 求_VT 马_NA 不_D 获_VT 而_C 留_VT 其_NH 弟_NA ，事_NA 见_VT 上卷_NA 十六年_NA
+SGW	Pred:	好_VT ，呼_VT 到_VT 翻_VT ；下_NG 同_VT
+SGW	Pred:	曲_NA 在于_P 我_NH ，柰何_D 遽_D 兴_V 兵_NA 击_VT 之_NH ！拓跋涉圭_NB 沈勇_V 有_VT 谋_NA ，萧子显_NB 曰_VT ：珪_NB ，字_NA 涉圭_NB
+SGW	Pred:	沈_NA ，持_VT 林_NA 翻_V
+SGW	Pred:	幼_NA 历_VT 艰难_NA ，兵_NA 精_VT 马_NA 强_VT ，未_D 易_VT 轻_VT 也_T
+SGW	Pred:	皇太子_NA 富_VT 于_P 春秋_NA ，志_NA 果_V 气_NA 锐_VT ，今_NA 委_VT 之_NH 专_D 任_VT ，章_NA ：十_A 二_A 行_NA 本_NA 「任_R 」作_VT 「征_NA 」；乙_NA 十_A 一_NA 行_NA 本_NA 同_VT ；张校_NA 同_VT
+SGW	Pred:	必_VT 小魏_NA 而_C 易_VT 之_NH ，易_VT ，以_P 豉_NA 翻_VT
+SGW	Pred:	万一_C 不_D 如_VT 所_T8 欲_VT ，伤_VT 威_NA 毁_VT 重_NA ，愿_VT 陛下_NH 深_VT 图_VT 之_NH ！」言_NA 颇_D 激切_VT ，垂_VT 怒_VT ，免_VT 湖官_V
+SGW	Pred:	湖_NB ，泰_NB 之_T 子_NA 也_T
+SGW	Pred:	前燕_NA 时_NA ，垂_NB 为_VT 车骑将军_NA ，以_P 泰_NB 为_VT 从事中郞_NA
+SGW	Pred:	
+SGW	Pred:	9六月_NA ，癸丑_NA ，燕_NB 太原_NC 元王楷_NB 卒_V
+SGW	Pred:	10西秦王干_NB 归_V 迁_V 于_P 西城_NC 。苑川_NC 西城_NA 也_T
+SGW	Pred:	11秋_NA ，七月_NA ，三河王光_NB 帅_VT 众_NA 十_A 万_A 伐_VT 西秦_NB ，帅_R ，读_VT 曰_VT 率_R 。西秦_NB 左辅_NA 密贵周_ND 、左衞将军_NA 莫_NB 者_T 羖羝密_NB 以_P 国_NA 为_VT 氏_NA 。姓谱_NA ：汉_NA 有_VT 尙书_NA 密忠_NA 。据_VT 通鑑_NA 下_A 文_NA ，则_D 以_P 密贵_R 为_VT 姓_NA 。莫_R 者_T ，夷_NA 复姓_NA 。劝_VT 西秦王干_NB 归_VT 称_VT 藩_NA 于_P 光_NB ，以_P 子_NA 敕_VT 勃_NB 为_VT 质_NA 。质_R ，音_NA 致_R 。光_NB 引_VT 兵_NA 还_V ，干_NB 归_V 悔_VT 之_NH ，杀_VT 周_NA 及_C 羖羝_NB 。羖_R ，音_NA 古_R 。羝_R ，音_NA 氐_R
+SGW	Pred:	
+SGW	Pred:	12魏_NB 张衮_NB 闻_VT 燕_NB 军_NA 将_D 至_V ，言_VT 于_P 魏王珪_NB 曰_VT ：「燕_NB 狃_V 于_P 滑台_NC 、长子_NA 之_T 捷_NA ，滑台_NB 事_NA 见_VT 上_NG 十七年_NA ；长子_NA 事_NA 见_VT 上年_NA
+SGW	Pred:	狃_NA ，与_P 忸_NA 同_VT
+SGW	Pred:	杜预_NA 曰_VT ：忸_NA ，忲_NA 也_T
+SGW	Pred:	竭_V 国_NA 之_T 资力_NA 以_P 来_V ，有_VT 轻_V 我_NH 之_T 心_NA ，宜_VT 羸_V 形_NA 以_P 骄_V 之_NH ，乃_D 可_VT 克_VT 也_T
+SGW	Pred:	」羸_VT ，伦_NA 为_VT 翻_VT
+SGW	Pred:	珪_NB 从_VT 之_NH ，悉_D 徙_V 部落_NA 畜产_NA ，西_NG 渡_VT 河_NC 千_A 馀_T7 里_NF 以_P 避_VT 之_NH
+SGW	Pred:	燕_NB 军_NA 至_VT 五原_NC ，降_VT 魏_NB 别部_NA 三_A 万_A 馀_NA 家_NA ，降_VT ，户_R 江_R 翻_V
+SGW	Pred:	收_VT 穄田_NA 百_A 馀_NA 万_A 斛_NF ，置_VT 黑城_NB ，黑城_NB 在_VT 五原_NC 河_NC 北_NG
+SGW	Pred:	按_VT 魏书_NA 帝纪_NA ：登国_NA 五年_NA ，刘衞辰_NA 遣_VT 子直_NA 力_D 鞮_VT 出_VT 稒阳塞_NA ，侵及_VT 黑城_NA
+SGW	Pred:	从_E 可_VT 知_VT 矣_T
+SGW	Pred:	进_V 军_NA 临_VT 河_NC ，水经_NB ：河水_NB 自_P 新秦中_NC 屈_V 而_C 南_NG 流_V ，过_VT 五原_NC 、西安阳_NC 、成宜_NB 、宜梁_NB 、临沃_NB 、稒阳_NB 等_T 县_NA 南_NG
+SGW	Pred:	造_VT 船_NA 为_VT 济_VT 具_NA
+SGW	Pred:	珪_NA 遣_VT 右司马_NA 许谦_NA 乞_VT 师_NA 于_P 秦_NA
+SGW	Pred:	
+SGW	Pred:	13秃发_NB 乌孤_NB 击_VT 乙弗_NB 、折掘_NB 等_T 诸_A 部_NA ，皆_D 破降_VT 之_NH ，筑_VT 廉川堡_NA 而_C 都_VT 之_NH 。乙弗_NB 、折掘_NB 二_A 部_NA ，皆_D 在_VT 秃发氏_NB 之_T 西_NG 。廉川_NB 在_VT 湟_NC 中_NG 。降_NA ，户江_NC 翻_V 。广武_NB 赵振_NB ，少_V 好_VT 奇略_NA ，少_V ，诗照翻_V 。好_V ，呼_VT 到_R 翻_NB 。闻_VT 乌孤_NB 在_VT 廉川_NC ，弃_VT 家_NA 从_VT 之_NH 。乌孤_NB 喜_VT 曰_VT ：「吾_NH 得_VT 赵生_NB ，大事_NA 济_V 矣_T ！」拜_VT 左司马_NA 。三河王光_NB 封_VT 乌孤_NB 为_VT 广武郡公_NB
+SGW	Pred:	14有_VT 长星_NA 见_VT 自_P 须女_NA ，至于_VT 哭星_NA 。天文志_NA ：须女_NA 四_NA 星_NA 。须_NA ，贱_VT 妾_NA 之_D 称_NA ，妇职_NA 之_D 卑_VT 者_T8 也_T 。斗_NA 、牛_NA 、女_NA ，扬州_NA 分_VT 。虚_NA 二_NA 星_NA 、危_NA 三_NA 星_NA ，皆_D 主_VT 死丧_NA 。哭泣_NA 、坟墓_NA ，四_NA 星_NA ，属_VT 危_NA 之_D 下_NG ，主_VT 死丧_NA 、哭泣_NA 、为_VT 坟墓_NA 也_T 。见_VT ，贤_R 遍翻_VT 。帝_NA 心_NA 恶_VT 之_NH ，于_P 华林园_NA 举_VT 酒_NA 祝_VT 之_NH 曰_VT ：晋_NA 都_NA 建康_NA ，倣_VT 洛都_NA ，起_VT 华林园_NA 。恶_VT ，乌路_NA 翻。「长星_NA ，劝_VT 汝_NH 一_NA 杯_NF 酒_NA ；自_P 古_NA 何_D 有_VT 万岁_NA 天子_NA 邪_T
+SGW	Pred:	1_NA 5八月_NA ，魏王珪_NB 治_V 兵_NA 河南_NC ；治_VT ，直_VT 之_NH 翻_V 。九月_NA ，进_V 军_NA 临_VT 河_NC 。燕_NB 太子宝_NB 列_V 兵_NA 将_D 济_V ，暴风_NA 起_V ，漂_V 其_NH 船_NA 数_A 十_A 艘_NA 泊_VT 南岸_NA 。漂_V ，纰招_NB 翻_V 。艘_NA ，苏遭_NB 翻_V 。魏_NB 获_VT 其_NH 甲士_NA 三_A 百_A 馀_NA 人_NA ，皆_D 释_VT 而_C 遣_VT 之_NH
+SGW	Pred:	宝_NB 之_T 发_VT 中山_NC 也_T ，燕_NB 主_NA 垂_D 已_D 有_VT 疾_NA ，旣_D 至_VT 五原_NC ，珪_NB 使_VT 人_NA 邀_VT 中山_NB 之_T 路_NA ，伺_VT 其_NH 使者_NA ，尽_D 执_VT 之_NH 。伺_VT ，相吏_NA 翻_V 。使_V ，疏_V 吏_NA 翻_V 。宝_NB 等_T 数_A 月_NA 不_D 闻_VT 垂_NB 起居_V ，珪_NB 使_VT 所_NH 执_VT 使者_NA 临_VT 河_NC 吿_VT 之_NH 曰_VT ：「若_NH 父_NA 已_D 死_V ，何不_D 早_D 归_V ！」宝_NB 等_T 忧恐_VT ，士卒_NA 骇动_V
+SGW	Pred:	珪_NB 使_VT 陈留公虔_NB 将_VT 五_A 万_A 骑_NA 屯_VT 河东_NC ，东平公仪_NB 将_VT 十_A 万_A 骑_NA 屯_VT 河北_NG ，河水_NB 自_P 金城_NC 过_VT 武威_NB 、天水_NB 、安定_NC 、北地郡_NB 界_NA ，率_VT 东北_NG 流_V ，至_VT 朔方_NC 沃野县_NC 界_NA ，始_D 屈_NB 而_C 东南_NG 流_V 。虔_NB 屯_VT 河东_NG ，仪_NB 屯_VT 河北_NG ，皆_D 河曲_NC 之_T 地_NA ，未_D 渡_VT 河_NC 也_T 。北史_NA 曰_VT ：仪_NB 据_VT 朔方_NC 。将_NA ，卽亮_NB 翻_V ；下_NG 同_V 。略阳公遵_NB 将_VT 七_A 万_A 骑_NA 塞_V 燕_NB 军_NA 之_T 南_NG 。遵_NB ，寿鸠_NB 之_T 子_NA 也_T 。寿鸠_NB 见_VT 一_A 百_A 四_A 卷_NF 元年_NA 。秦_NB 主_NA 兴_NB 遣_VT 杨佛嵩_NB 将_VT 兵_NA 救_VT 魏_NB
+SGW	Pred:	燕_NB 术士_NA 靳安_NB 言_VT 于_P 太子宝_NB 曰_VT ：靳_R ，居欣_NB 翻_V 。「天时_NA 不_D 利_V ，燕_NB 必_VT 大_VT 败_VT ，速_VT 去_VT 可_VT 免_V 。」宝_NA 不_D 听_VT 。安_NB 退_V ，吿人_NA 曰_VT ：「吾辈_NH 皆_D 当_VT 弃_VT 尸_NA 草野_NA ，不_D 得_VT 归_VT 矣_T
+SGW	Pred:	燕_NB 、魏_NB 相_D 持_VT 积旬_NA ，赵王麟_NB 将_NA 慕舆嵩_NB 等_T 以_P 垂_NB 为_VT 实_D 死_V ，谋_VT 作_V 乱_NA ，奉_VT 麟_NA 为_VT 主_NA ；事_NA 泄_V ，嵩_NA 等_T 皆_D 死_VT ，宝_NA 、麟_NB 等_T 内_NG 自_D 疑_VT 。冬_NA ，十月_NA ，辛未_NA ，烧_VT 船_NA 夜_NA 遁_V 。时_NA 河_NB 冰_NA 未_D 结_V ，宝_NA 以_P 魏_NB 兵_NA 必_VT 不_D 能_VT 渡_V ，不_D 设_VT 斥候_NA 。十一月_NA ，己卯_NA ，暴风_NA ，冰_NA 合_V ，魏王珪_NB 引_VT 兵_NA 济_VT 河_NC ，留_V 辎重_NA ，重_NA ，直_D 用_P 翻_NB 。选_VT 精锐_NA 二_A 万_A 馀_T7 骑_NA 急_D 追_VT 之_NH
+SGW	Pred:	
+SGW	Pred:	燕_NB 军_NA 至_VT 参合陂_NC ，有_VT 大风_NA ，黑气_NA 如_VT 堤_NA ，自_P 军_NA 后_NG 来_V ，临_VT 覆军_NA 上_NG
+SGW	Pred:	覆_VT ，扶_VT 又_D 翻_VT
+SGW	Pred:	沙门_NA 支昙猛支_NA 者_T8 ，昙猛_NA 之_D 俗姓_NA
+SGW	Pred:	昙_R ，徒含_R 翻_VT
+SGW	Pred:	言_VT 于_P 宝_NA 曰_VT ：「风气_NA 暴迅_VT ，魏_NA 兵_NA 将_D 至_VT 之_D 候_NA ，宜_VT 遣_VT 兵_NA 御_VT 之_NH
+SGW	Pred:	」宝_NA 以_D 去_VT 魏_NA 军_NA 已_D 远_VT ，笑_V 而_C 不_D 应_VT
+SGW	Pred:	昙猛_NA 固_VT 请_VT 不_D 已_VT ，麟_NA 怒_VT 曰_VT ：「以_P 殿下_NH 神武_VT ，师徒_NA 之_D 盛_VT ，足以_VT 横_VT 行_V 沙漠_NA ，索_VT 虏_NA 何_D 敢_VT 远_VT 来_VT ！太元_NA 十八年_NA ，慕容麟_NA 已_D 知_VT 拓跋珪_NA 之_D 必_VT 为_VT 燕_NA 患_NA 矣_T ，今_NA 乃_D 轻_VT 之_NH 如此_VT ，岂_D 其_NH 心_NA 自_D 疑_VT 而_C 欲_VT 败_VT 宝_NA 之_D 师_NA 邪_T ？其_NH 后_NG 宝_NA 不_D 能_VT 守_VT 中山_NA 而_C 麟_NA 亦_D 不_D 能_VT 自_D 立_VT ，同_VT 归_VT 于_P 乱_NA 而已_T 矣_T
+SGW	Pred:	索_R ，昔_R 各_D 翻_VT
+SGW	Pred:	而_C 昙猛_NA 妄_VT 言_VT 惊_VT 众_NA ，当_VT 斩_VT 以_C 徇_VT ！」昙猛_NA 泣_V 曰_VT ：「苻氏_NA 以_P 百_NA 万_NA 之_D 师_NA ，败_VT 于_P 淮南_NA ，正_D 由_P 恃_VT 众_NA 轻_VT 敌_NA ，不_D 信_VT 天道_NA 故_NA 也_T ！」事_NA 见_VT 一_NA 百_NA 四_NA 卷_NF 、五_NA 卷_NF 七年_NA 、八年_NA
+SGW	Pred:	司徒_NA 德_NA 劝_VT 宝_NA 从_VT 昙猛_NA 言_VT ，宝_NA 乃_D 遣_VT 麟_NA 帅_VT 骑_NA 三_NA 万_NA 居_VT 军_NA 后_NG 以_C 备_VT 非常_NA
+SGW	Pred:	帅_NA ，读_VT 曰_VT 率_NA
+SGW	Pred:	骑_R ，奇_R 寄_R 翻_VT ；下_NG 同_VT
+SGW	Pred:	麟_NA 以_P 昙猛_NA 为_VT 妄_VT ，纵_VT 骑_NA 游猎_V ，不_D 肯_VT 设_VT 备_NA
+SGW	Pred:	宝_NA 遣_VT 骑_NA 还_VT 诇_VT 魏_NA 兵_NA ，诇_R ，古_R 永_R 翻_VT ，又_D 翾_R 正_R 翻_VT
+SGW	Pred:	骑_NA 行_V 十_A 馀_NA 里_NF ，卽_NA 解_V 鞍_NA 寝_V
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	魏_NB 军_NA 晨夜_NA 兼_D 行_V ，乙酉_NA ，暮_NA ，至_VT 参合陂_NA 西_NG
+SGW	Pred:	燕_NB 军_NA 在_VT 陂_NA 东_NG ，营_V 于_P 蟠羊山_NC 南_NG 水_NA 上_NG
+SGW	Pred:	水经_NA 注_NA ：可不埿水_NA 出_VT 鴈门_NA 沃阳县_NA 东南_NG 六_NA 十_NA 里_NF 山_NA 下_NG ，西北_NG 流_V 注_VT 沃水_NA ，合_VT 流_NA 而_C 东_NG ，迳参合县_NA 南_NG
+SGW	Pred:	魏_NA 王珪_NA 夜_NA 部分_VT 诸_NA 将_NA ，分_VT ，扶_R 问_R 翻_VT
+SGW	Pred:	掩覆_VT 燕_NA 军_NA ，士卒_NA 衔_VT 枚_NA 束_VT 马口_NA 潜_D 进_VT
+SGW	Pred:	丙戌_NA ，日_NB 出_V ，魏_NB 军_NA 登_VT 山_NA ，下_NG 临_VT 燕_NB 营_NA ；燕_NB 军_NA 将_D 东_NG 引_VT ，引_VT 而_C 东_NG 行_V 也_T
+SGW	Pred:	顾_VT 见_VT 之_NH ，士卒_NA 大_D 惊_V 扰乱_V
+SGW	Pred:	珪_NA 纵_VT 兵_NA 击_VT 之_NH ，燕_NA 兵_NA 走_V 赴_VT 水_NA ，人马_NA 相_D 腾蹑_VT ，压溺_VT 死_VT 者_T8 以_P 万_NA 数_VT
+SGW	Pred:	略阳公遵_NB 以_P 兵_NA 邀_VT 其_NH 前_NG ，燕_NB 兵_NA 四_A 五_A 万_A 人_NA ，一时_NA 放_VT 仗_NA 敛_VT 手_NA 就_VT 禽_NA ，其_NH 遗_VT 迸去_V 者_NH 不过_D 数_A 千_A 人_NA ，迸_V ，北孟翻_NB
+SGW	Pred:	太子宝_NB 等_T 皆_D 单_V 骑_NA 仅_D 免_V
+SGW	Pred:	杀_VT 燕_NB 右仆射_NA 陈留悼王绍_NB ，生_D 禽_VT 鲁阳王_NB 倭奴_NB 、倭_NB ，乌禾_NB 翻_V
+SGW	Pred:	桂林王_NA 道成_NA 、济阴公_NA 尹国_NA 等_T6 文武_NA 将吏_NA 数_NA 千_NA 人_NA ，济_NA ，子礼_NA 翻_VT
+SGW	Pred:	兵甲_NA 粮货_NA 以_P 钜万_A 计_VT
+SGW	Pred:	道成_NB ，垂_NB 之_T 弟子_NA 也_T
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	魏_NA 王_NA 珪_NA 择_VT 燕_NA 臣_NA 之_D 有_VT 才用_NA 者_T8 代郡_NA 太守_NA 广川_NA 贾闰_NA 、闰_NA 从弟_NA 骠骑_NA 长史_NA 昌黎_NA 太守_NA 彜_NA 、太史_NA 郞_NA 晁章_NA ：十_NA 二_NA 行_NF 本_NA 「晁_NA 」上_NG 有_VT 「辽东_NA 」二_NA 字_NA ；乙_NA 十_NA 一_NA 行_NF 本_NA 同_VT ；孔_NA 本_NA 同_VT ；张_NA 校_NA 同_VT
+SGW	Pred:	崇_NA 等_T6 留_VT 之_NH ，晁_NA ，直_VT 遥_VT 翻_VT
+SGW	Pred:	其馀_NA 欲_VT 悉_D 给_VT 衣粮_NA 遣_VT 还_VT ，以_C 招怀_VT 中州_NA 之_D 人_NA
+SGW	Pred:	中部_NA 大人_NA 王建_NB 曰_VT ：「燕_NB 众_NA 强盛_V ，今_NA 倾_V 国_NA 而_C 来_V ，我_NH 幸_VT 而_C 大_D 捷_V ，不如_VT 悉_D 杀_VT 之_NH ，则_C 其_NH 国_NA 空虚_V ，取_VT 之_NH 为_VT 易_VT
+SGW	Pred:	易_VT ，以_P 豉_NA 翻_VT
+SGW	Pred:	且_C 获_VT 寇_NA 而_C 纵_V 之_NH ，无乃_D 不_D 可_VT 乎_T ！」乃_D 尽_D 阬_VT 之_NH
+SGW	Pred:	十二月_NA ，珪_NA 还_VT 云中_NC 之_T 盛乐_NA
+SGW	Pred:	通鑑_NA 于_P 惠帝_NA 元康_NA 五年_NA ，书_VT 定襄_NA 之_D 盛乐_NA 故_VT 城_NA ，此_NH 书_NA 云中_NA 之_D 盛乐_NA ；盖_D 历代_NA 郡县_NA 废徙_V 无常_VT ，前汉_NA 成乐县_NA 属_VT 定襄_NA ，后汉_NA 成乐县_NA 属_VT 云中_NA
+SGW	Pred:	前_NG 书_VT 定襄_NA 之_D 盛乐_NA ，此_NH 前汉_NA 之_D 故_VT 城_NA 也_T ；此_NH 书_VT 云中_NA 之_D 盛乐_NA ，此_NH 后汉_NA 之_D 故_VT 城_NA 也_T
+SGW	Pred:	
+SGW	Pred:	燕_NB 太子宝_NB 耻_VT 于_P 参_NB 合_NA 之_T 败_NA ，请_VT 更_D 击_VT 魏_NB 。司徒_NA 德_NB 言_VT 于_P 燕_NB 主_NA 垂_NB 曰_VT ：「虏_NA 以_P 参_NB 合_NA 之_T 捷_NA ，有_VT 轻_V 太子_NA 之_T 心_NA ，宜_VT 及_VT 陛下_NH 神略_NA 以_P 服_V 之_NH ，不_D 然_V ，将_D 为_VT 后患_NA 。」垂_NB 乃_D 以_P 淸河公会_NB 录_VT 留台_NA 事_NA ，领_VT 幽州_NC 刺史_NA ，代_VT 高阳王隆_NB 鎭_VT 龙城_NC ；以_P 阳城王兰汗_NB 为_VT 北中郞将_NA ，代_NB 长乐公盛_NB 鎭_VT 蓟_NC ；乐_R ，音_NA 洛_R 。蓟_R ，音_NA 计_R 。命_VT 隆_NB 、盛_NB 悉_D 引_VT 其_NH 精兵_NA 还_V 中山_NC ，期_NB 以_P 明年_NA 大_D 举_VT 击_VT 魏_NB
+SGW	Pred:	16是_NH 岁_NA ，秦_NB 主_NA 兴_NB 封_VT 其_NH 叔父_NA 緖_NB 为_VT 晋王_NB ，硕德_NB 为_VT 陇西王_NB ，弟_NA 崇_NB 为_VT 齐公_NB ，显_NB 为_VT 常山公_NB
+SGW	Pred:	二十一年_NA （丙申_NA 、三九_NA 六_A
+SGW	Pred:	1春_NA ，正月_NA ，燕_NB 高阳王隆_NB 引_VT 龙城_NC 之_T 甲_NA 入_VT 中山_NC ，军容_NA 精整_V ，燕_NB 人_NA 之_T 气_NA 稍_D 振_V 。汉_NB 人_NA 有_VT 言_NA ：「战_NA 胜_V 之_T 威_NA ，士气_NA 百_A 倍_NA ；败_V 军_NA 之_T 卒_NA ，没世_NA 不_D 复_D 正_V 。」此_NH 之_T 谓_VT 也_T
+SGW	Pred:	2休_V 官_NA 权万世_NA 帅_VT 众_NA 降_VT 西秦_NB 。前年_NA ，乞伏干归_NB 称_VT 秦王_NB ，故_C 称_VT 西秦_NB 以_P 别_VT 于_P 姚_NB 秦_NB 。帅_R ，读_VT 曰_VT 率_R 。降_R ，户_R 江_R 翻_V
+SGW	Pred:	
+SGW	Pred:	3燕_NA 主_NA 垂_VT 遣_VT 征东将军_NA 平规_NA 发_VT 兵_NA 冀州_NA
+SGW	Pred:	二月_NA ，规_VT 以_P 博陵_NA 、武邑_NA 、长乐_NA 三_NA 郡_NA 兵_NA 反_VT 于_P 鲁口_NA ，其_NH 从子_NA 冀州_NA 刺史_NA 喜_NA 谏_VT ，不_D 听_VT
+SGW	Pred:	从_R ，才_D 用_VT 翻_VT
+SGW	Pred:	规_NA 弟_NA 海阳_NA 令_NA 翰_NA 亦_D 起_VT 兵_NA 于_P 辽西_NA 以_C 应_VT 之_NH
+SGW	Pred:	海阳县_NB 自_P 汉_ND 以_P 来_V 属_VT 辽西郡_NB
+SGW	Pred:	平规_NA 兄弟_NA 以_P 燕_NA 兵_NA 败_VT ，故_C 叛_VT 之_NH
+SGW	Pred:	垂_NA 遣_VT 鎭东将军_NA 馀嵩_NA 击_VT 规_NA ，嵩_NA 败_VT 死_VT
+SGW	Pred:	垂_NB 自_D 将_VT 击_VT 规_NB ，至_VT 鲁口_NC ，规_NB 弃_VT 众_NA ，将_VT 妻子_NA 及_P 平喜_NB 等_T 数_A 十_A 人_NA 走_V 渡_VT 河_NC ，垂_NB 引_VT 兵_NA 还_V
+SGW	Pred:	翰_NA 引_VT 兵_NA 趣_VT 龙城_NA ，趣_VT ，七_NA 喩_NA 翻_VT
+SGW	Pred:	淸河公会_NB 遣_VT 东阳公根_NB 等_T 击_VT 翰_NB ，破_V 之_NH ，翰_NB 走_VT 山_NA 南_NG
+SGW	Pred:	白狼_NB 、徐无_NB 等_T 山_NA 之_T 南_NG
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	4三月_NA ，庚子_NA ，燕_NA 主_NA 垂_D 留_VT 范阳王_NA 德_NA 守_VT 中山_NA ，引_VT 兵_NA 密_VT 发_V ，踰_VT 靑岭_NA ，经_VT 天门_NA ，靑岭_NA 盖_D 卽广昌岭_NA ，在_VT 代郡_NA 广昌县_NA 南_NG ，所谓_VT 五回道_NA 也_T
+SGW	Pred:	其_NH 南_NG 层_NF 崖_NA 刺_VT 天_NA ，积石_NA 之_D 峻_NA ，壁_D 立_V 直_VT 上_NG ，盖_D 卽_VT 天门_NA 也_T
+SGW	Pred:	凿_VT 山_NA 通_V 道_NA ，出_VT 魏_NB 不_D 意_VT ，直_D 指_VT 云中_NC
+SGW	Pred:	魏_NA 陈留公_NA 虔_NA 帅_VT 部落_NA 三_NA 万_NA 馀_T7 家_NA 鎭_VT 平城_NA ；垂_D 至_VT 猎岭_NA ，猎岭_NA ，在_VT 夏屋山_NA 东北_NG ，魏_NA 都_NA 平城_NA ，常_D 猎_V 于_P 此_NA
+SGW	Pred:	以_P 辽西王农_NB 、高阳王隆_NB 为_VT 前锋_NA 以_P 袭_VT 之_NH
+SGW	Pred:	是_NH 时_NA ，燕_NB 兵_NA 新_D 败_VT ，皆_D 畏_VT 魏_NB ，惟_D 龙城_NC 兵_NA 勇锐_VT 争_VT 先_NG
+SGW	Pred:	虔_NA 素_D 不_D 设_VT 备_NA ，闰月_NA ，乙卯_NA ，燕_NA 军_NA 至_VT 平城_NA ，虔_NA 乃_D 觉_VT 之_NH ，帅_VT 麾下_NA 出_VT 战_V ，败_VT 死_VT ，燕_NA 军_NA 尽_D 收_VT 其_NH 部落_NA
+SGW	Pred:	魏_NA 王_NA 珪_NA 震怖_VT 欲_VT 走_V ，诸_NA 部_NA 闻_VT 虔_NA 死_VT ，皆_D 有_VT 贰_VT 心_NA ，珪_NA 不_D 知_VT 所_T8 适_VT
+SGW	Pred:	虔勇_NA 盖_VT 代_NC 北_NG ，旣_NA 败_V 而_C 死_V ，故_C 诸_A 部_NA 皆_D 贰_V
+SGW	Pred:	然_C 天_NA 将_D 亡_V 燕_NB ，垂_D 继_VT 以_P 殒_V ，此_NH 固_D 非_D 人力_NA 所_NH 能_VT 为_VT 也_T
+SGW	Pred:	帅_NA ，读_VT 曰_VT 率_NA
+SGW	Pred:	怖_VT ，普_VT 布_VT 翻_VT
+SGW	Pred:	
+SGW	Pred:	垂_NA 之_D 过_VT 参合陂_NA 也_T ，见_VT 积_VT 骸_NA 如_VT 山_NA ，为_P 之_NH 设_VT 祭_NA ，为_T ，于_P 伪_D 翻_V 。军士_NA 皆_D 恸_VT 哭_V ，声_NA 震_VT 山谷_NA 。垂_NA 慙_VT 愤_VT 呕_VT 血_NA ，由是_C 发_VT 疾_NA ，乘_VT 马舆_NA 而_C 进_VT ，顿_VT 平城_NA 西北_NG 三_NA 十_NA 里_NF 。太子宝_NB 等_T6 闻_VT 之_NH ，皆_D 引_VT 还_VT 。燕_NA 军_NA 叛者_NA 奔吿_NA 于_P 魏_NA 云_VT ：「垂_NA 已_D 死_VT ，舆_VT 尸_NA 在_VT 军_NA 。」魏_NA 王_NA 珪_NA 欲_VT 追_VT 之_NH ，闻_VT 平城_NA 已_D 没_VT ，乃_D 引_VT 还_VT 阴山_NA 。魏_NA 人_NA 有_VT 言_NA ，「死_VT 诸葛_NA 走_V 生_VT 仲达_NA 。」拓跋珪_NA 闻_VT 慕容垂_NA 之_D 死_VT 而_C 不_D 敢_VT 进_VT ，亦_D 类_VT 是_NH 耳_T
+SGW	Pred:	垂_NA 在_VT 平城_NA 积_VT 十_NA 日_NA ，疾_NA 转_D 笃_VT ，乃_D 筑_VT 燕昌城_NA 而_C 还_VT 。水经_NA ：燕昌城_NA 在_VT 平城_NA 北_NG 四_NA 十_NA 里_NF 。夏_NA ，四月_NA ，癸未_NA ，卒_VT 于_P 上谷_NA 之_D 沮阳_NA ，贤_NA 曰_VT ：沮阳县_NA 故_VT 城_NA ，在_VT 今_NA 妫州_NA 东_NG 。沮_R ，音_NA 阻_R 。垂_NA 年_NA 七_NA 十_NA 一_NA 。祕_D 不_D 发_VT 丧_NA 。丙申_NA ，至_VT 中山_NA ；戊戌_NA ，发_V 丧_NA ，谥_VT 曰_VT 成武皇帝_NA ，庙号_VT 世祖_NA 。壬寅_NA ，太子宝_NA 卽_VT 位_NA ，宝_NA ，字_NA 道祐_NA ，垂_NA 第_NA 四_NA 子_NA 也_T 。大_D 赦_VT ，改元_V 永康_NA
+SGW	Pred:	
+SGW	Pred:	五月_NA ，辛亥_NA ，以_P 范阳王_NA 德_NA 为_VT 都督_NA 冀_NA ·兖_NA ·靑_NA ·徐_NA ·荆_NA
+SGW	Pred:	豫_VT 六_NA 州_NA 诸_A 军事_NA 、车骑大将军_NA 、冀州_NC 牧_NA ，鎭_VT 邺_NC ；辽西王农_NB 为_VT 都督_NA 幷_NB ·雍_NB ·益_NB ·梁_NB ·秦_NA ·凉_NA 六_NA 州_NA 诸_A 军事_NA 、幷州牧_NA ，鎭_VT 晋阳_NC
+SGW	Pred:	雍_R ，于_R 用_P 翻_V
+SGW	Pred:	又_D 以_P 安定王_NA 库傉官伟_NA 为_VT 太师_NA ，傉_R ，奴_R 沃_R 翻_V
+SGW	Pred:	夫馀_NA 王_NA 蔚_NA 为_VT 太傅_NA
+SGW	Pred:	馀蔚_NB ，夫馀王_NB 子_NA 也_T ，燕王皝_NB 破_V 夫馀_NB 得_VT 之_NH ，燕_NB 亡_V ，入_VT 秦_NC ，秦_NB 乱_V ，复_D 归_VT 燕_NC ，燕_NB 主_NA 垂_NB 封_VT 为_VT 扶馀王_NB
+SGW	Pred:	甲寅_NA ，以_P 赵_NA 王_NA 麟_NA 领_VT 尙书左仆射_NA ，高阳王_NA 隆_NA 领_VT 右仆射_NA ，长乐公_NA 盛_NA 为_VT 司隶校尉_NA ，宜都王_NA 凤_NA 为_VT 冀州_NA 刺史_NA
+SGW	Pred:	
+SGW	Pred:	5乙卯_NA ，以_P 散骑常侍_NA 彭城_NA 刘该_NA 为_VT 徐州_NA 刺史_NA ，鎭_VT 鄄城_NA 。散_R ，悉_R 亶_R 翻_VT 。骑_R ，奇_R 寄_R 翻_VT 。鄄_R ，吉_R 掾_R 翻_VT
+SGW	Pred:	6甲子_NA ，以_P 望蔡公_NA 谢琰_NA 为_VT 尙书左仆射_NA 。望蔡县_NA 属_VT 豫章郡_NA 。沈约_NA 曰_VT ：汉灵帝_NA 中平_NA 中_NG ，汝南_NA 上蔡_NA 民_NA 分_D 徙_VT 此_NH 城_NA ，立_VT 县_NA 名_NA 上蔡_NA ，晋武帝_NA 太康_NA 元年_NA ，更_VT 名_NA 。宋白_NA 曰_VT ：以_P 上蔡_NA 人_NA 思_VT 本_NA 土_NA ，故_C 曰_VT 望蔡_NA
+SGW	Pred:	
+SGW	Pred:	7初_D ，燕_NB 主_NA 垂_NB 先_NG 段后_NB 生_V 子_NA 令_NB 、宝_NB ，后_NG 段后_NB 生_V 子_NA 朗_NB 、鉴_NB ，爱_VT 诸_A 姬_NA 子_NA 麟_NB 、农_NB 、隆_NB 、柔_NB 、熙_NB
+SGW	Pred:	宝_NA 初_D 为_VT 太子_NA ，有_VT 美_VT 称_NA ，称_VT ，昌_R 孕_R 翻_NA ，名誉_NA 也_T
+SGW	Pred:	已而_D 荒怠_V ，中外_NG 失_VT 望_NA
+SGW	Pred:	后_NA 段后_NB 尝_D 言_VT 于_P 垂_NB 曰_VT ：燕王垂_NB 初_D 娶_VT 段氏_NB ，以_P 可_VT 足_V 浑后_NB 之_T 谗_NA 而_C 死_V ，后_NA 卽_VT 位_NA ，追_D 尊_VT 为_VT 后_NA
+SGW	Pred:	复_D 纳_VT 段氏_NB 为_VT 后_NA ，故_C 史_NA 书_VT 后_V 段_NB 后_NB 以_P 别_V 之_NH
+SGW	Pred:	「太子_NA 遭_VT 承平_VT 之_D 世_NA ，足_VT 为_VT 守_VT 成_NA 之_D 主_NA ；今_NA 国步_NA 艰难_VT ，恐_VT 非_D 济_VT 世_NA 之_D 才_NA
+SGW	Pred:	辽西_NA 、高阳_NA 二_NA 王_NA ，陛下_NH 之_D 贤_VT 子_NA ，宜_VT 择_VT 一_NA 人_NA ，付_VT 以_P 大_VT 业_NA
+SGW	Pred:	赵王麟_NA 奸诈_VT 强_VT 愎_VT ，愎_R ，弼_VT 力_NA 翻_VT
+SGW	Pred:	异日_NA 必_VT 为_VT 国家_NA 之_D 患_NA ，宜_VT 早_D 图_VT 之_NH
+SGW	Pred:	」宝_NA 善_VT 事_NA 垂_VT 左右_NG ，左右_NA 多_D 誉_VT 之_NH ，誉_R ，音_NA 余_R
+SGW	Pred:	故_C 垂_NB 以_P 为_VT 贤_V ，谓_VT 段氏_NB 曰_VT ：「汝_NH 欲_VT 使_VT 我_NH 为_VT 晋献公_NB 乎_T ！」晋献公_NB 信_VT 骊姬_NB 之_T 谗_NA ，杀_VT 太子申生_NB
+SGW	Pred:	段氏_NA 泣_V 而_C 退_V ，吿_VT 其_NH 妹_NA 范阳王_NA 妃_NA 曰_VT ：「太子_NA 不_D 才_V ，天下_NA 所_T8 知_VT ，吾_NH 为_P 社稷_NA 言_VT 之_NH ，为_VT ，于_R 伪_NA 翻_V
+SGW	Pred:	主上_NA 乃_D 以_P 吾_NH 为_VT 骊姬_NB ，何其_D 苦_VT 哉_T ！观_VT 太子_NA 必_VT 丧_VT 社稷_NA ，丧_NA ，息浪_D 翻_V
+SGW	Pred:	范阳王_NB 有_VT 非_D 常_V 器度_NA ，若_C 燕_NA 祚_NA 未_D 尽_VT ，其_D 在_VT 王_NA 乎_T ！」宝_NA 及_C 麟_NA 闻_VT 而_C 恨_VT 之_NH
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	乙丑_NA ，宝_NA 使_VT 麟_NA 谓_VT 段氏_NA 曰_VT ：「后_NA 常_D 谓_VT 主上_NA 不_D 能_VT 守_VT 大_VT 业_NA ，今_NA 竟_D 能_VT 不_T ？不_VT ，读_VT 曰_VT 否_VT
+SGW	Pred:	宜_VT 早_VT 自裁_V ，以_C 全_VT 段宗_NA ！」段氏_NA 怒_VT 曰_VT ：「汝_NH 兄弟_NA 不_D 难_VT 逼_VT 杀_VT 其_NH 母_NA ，况_C 能_VT 守_VT 先_A 业_NA 乎_T ！吾_NH 岂_D 爱_VT 死_VT ，但_D 念_VT 国_NA 亡_VT 不_D 久_VT 耳_T
+SGW	Pred:	」遂_D 自_D 杀_VT
+SGW	Pred:	宝_NA 议_VT 以_P 段后_NB 谋_VT 废_VT 适统_NA ，适_NA ，读_VT 曰_VT 嫡_NA
+SGW	Pred:	无_VT 母后_NA 之_T 道_NA ，不_D 宜_VT 成_V 丧_NA
+SGW	Pred:	羣_A 臣_NA 咸_D 以为_VT 然_VT
+SGW	Pred:	中书令_NA 眭邃飏_NA 言_VT 于_P 朝_NA 曰_VT ：眭，息_VT 惟_D 翻_VT
+SGW	Pred:	飏_R ，音_NA 扬_R
+SGW	Pred:	大_D 言_VT 而_C 疾_D 曰_VT 飏_NA
+SGW	Pred:	朝_NA ，直_VT 遥_VT 翻_VT
+SGW	Pred:	「子_NA 无_VT 废_VT 母_NA 之_D 义_NA ，汉安思_NA 阎后_NA 亲_NA 废_VT 顺帝_NA ，事_NA 见_VT 五_NA 十_NA 卷_NF 汉安帝_NA 延光_NA 三年_NA
+SGW	Pred:	犹_D 得_VT 配_VT 飨_VT 太庙_NA ，况_C 先后_NA 暧昧_VT 之_D 言_NA ，虚实_NA 未_D 可_VT 知_VT 乎_T ！」乃_D 成_VT 丧_NA
+SGW	Pred:	
+SGW	Pred:	8六月_NA ，癸酉_NA ，魏王珪_NB 遣_VT 将军_NA 王建_NB 等_T 击_VT 燕_NB 广甯_NC 太守_NA 刘亢泥_NB ，斩_VT 之_NH ，广甯县_NC ，汉_NB 属_VT 上谷郡_NB ，晋_NB 太康_ND 中_NG ，分_D 置_VT 广甯郡_NB 。亢_NB ，苦浪_NA 翻_V 。徙_V 其_NH 部落_NA 于_P 平城_NC 。燕_NB 上谷_NC 太守_NA 开封公详_NB 弃_VT 郡_NA 走_V 。详_NB ，皝_NB 之_T 曾孙_NA 也_T
+SGW	Pred:	9丁亥_NA ，魏贺_NB 太妃_NA 卒_V 。魏王珪_NB 之_T 母_NA 也_T
+SGW	Pred:	10燕_NA 主_NA 宝定_VT 士族_NA 旧_VT 籍_NA ，分辨_VT 淸浊_NA ，校阅_VT 户口_NA ，罢_VT 军营_NA 封荫_NA 之_D 户_NA ，悉_D 属_VT 郡县_NA ；军营_NA 封荫_NA 之_D 户_NA ，盖_VT 诸_NA 军_NA 庇占_V 以_P 为_VT 部曲_NA 者_T8 。由是_C 士民_NA 嗟怨_V ，始_D 有_VT 离_VT 心_NA 。斯_NH 事_NA 行_VT 之_NH ，未必_VT 非_VT 也_T ；但_C 慕容宝_NA 卽_VT 位_NA 之_D 初_NA ，国师_NA 新_D 败_VT ，又_D 遭_VT 大_VT 丧_NA ，下_NA 之_D 怀_VT 反侧_NA 者_T8 多_VT ，未_D 可_VT 遽_D 行_VT 耳_T 。大学_NA 曰_VT ：物_NA 有_VT 本末_NA ，事_NA 有_VT 先后_NG ，知_VT 所_T8 先后_VT ，则_D 近_VT 道_NA 矣_T
+SGW	Pred:	11三河王_NA 吕光_NA 卽_VT 天王_NA 位_NA ，国号_NA 大凉_NA ，大赦_NA ，改元_V 龙飞_NA ；吕光_NA ，字_NA 世明_NA ，略阳_NA 氐_NA 也_T ，父_NA 婆楼_NA ，为_P 苻坚_NA 佐命_V 。备置_VT 百官_NA ，以_P 世子_NA 绍_NA 为_VT 太子_NA ，封_VT 子弟_NA 为_VT 公侯_NA 者_T8 二_NA 十_NA 人_NA ；以_P 中书令_NA 王详_NA 为_VT 尙书左仆射_NA ，著作郞_NA 段业_NA 等_T6 五_NA 人_NA 为_VT 尙书_NA
+SGW	Pred:	光_NB 遣_VT 使者_NA 拜_VT 秃发乌孤_NB 为_VT 征南大将军_NA 、益州牧_NA 、左贤王_NA 。乌孤_NB 谓_VT 使者_NA 曰_VT ：「吕王_NB 诸_A 子_NA 贪淫_V ，光_NB 诸_A 子_NA 见_VT 于_P 史_NA 者_NH ，纂_NB 、弘_NB 、绍_NB 、覆_NB 。三_A 甥_NA 暴虐_V ，光_NB 甥_NA 石聪_NB 谮_D 杀_VT 杜进_NB ；馀_NA 二_A 人_NA 当_VT 考_VT 。远近_NA 愁怨_VT ，吾_NH 安_D 可_VT 违_VT 百姓_NA 之_T 心_NA ，受_VT 不_D 义_V 之_T 爵_NA 乎_T ！吾_NH 当_VT 为_VT 帝王_NA 之_T 事_NA 耳_T 。」乃_D 留_V 其_NH 鼓吹_NA 、羽仪_NA ，吹_VT ，昌瑞_NA 翻_V 。谢_VT 而_C 遣_VT 之_NH
+SGW	Pred:	12平规_NA 收合_VT 馀党_NA 据_VT 高唐_NA ，高唐县_NA ，自_P 汉_NA 以_P 来_V 属_VT 平原郡_NA 。燕_NA 主_NA 宝_NA 遣_VT 高阳王隆_NA 将_VT 兵_NA 讨_VT 之_NH ；将_NA ，卽亮_NB 翻_V 。东土_NA 之_D 民_NA ，素_D 怀_VT 隆惠_NA ，迎_VT 候者_NA 属_VT 路_NA 。相_D 属_VT 于_P 路_NA 也_T 。属_VT ，之_NH 欲_VT 翻_V 。秋_NA ，七月_NA ，隆_NA 进_VT 军_NA 临_VT 河_NC ，规_NB 弃_VT 高唐_NA 走_V 。隆_NA 遣_VT 建威将军_NA 慕容进_NA 等_T6 济_VT 河_NC 追_VT 之_NH ，斩_VT 规_NB 于_P 济_NC 北_NG 。于_P 济_NC ，子礼_NB 翻_V 。平喜_VT 奔_VT 彭城_NC
+SGW	Pred:	13纳_VT 故_A 中书令_NA 王献之_NA 女_NA 为_VT 太子_NA 妃_NA 。献之_NA ，羲之_NA 之_D 子_NA 也_T 。羲之_NA ，王导_NA 之_D 从子_NA
+SGW	Pred:	
+SGW	Pred:	14魏_NA 羣_A 臣_NA 劝_VT 魏_NA 王_NA 珪_NA 称_VT 尊_VT 号_NA ，珪_NA 始_D 建_VT 天子_NA 旌旗_NA ，出_VT 警_VT 入_VT 跸_NA ，改元_V 皇始_NA
+SGW	Pred:	珪_NA ，什翼犍_NA 之_D 嫡孙_NA ，寔_NA 之_D 子_NA ，详_VT 见_VT 一_NA 百_NA 四_NA 卷_NF 元年_NA
+SGW	Pred:	自_P 苻坚_NA 淮_NC 、淝_NC 之_T 败_NA ，至_P 是_NH 十_A 有_C 四_A 年_NA 矣_T ，关_NC 、河_NC 之_T 间_NG ，戎_NB 狄_NB 之_T 长_NA ，更_D 兴_V 迭_D 仆_V ，晋_NB 人_NA 视_VT 之_NH ，漠然_V 不_D 关_VT 乎_P 其_NH 心_NA
+SGW	Pred:	拓跋_NB 珪_NB 兴_V 而_C 南_NG 、北_NG 之_T 形_NA 定_V 矣_T
+SGW	Pred:	南_NG 、北_NG 之_T 形_NA 旣定_V ，卒_D 之_T 南_NG 为_P 北_NG 所_NH 幷_V
+SGW	Pred:	呜呼_I ！自_P 隋_NA 以后_NG ，名称_NA 扬_VT 于_P 时_NA 者_T8 ，代_NA 北_NG 之_D 子孙_NA 十_NA 居_VT 六_NA 七_NA 矣_T ，氏族_NA 之_D 辨_NA ，果_D 何_NH 益_NA 哉_T ！参军事_NA 上谷_NA 张恂_NA 劝_VT 珪_NA 进取_VT 中原_NA ，珪_NA 善_VT 之_NH
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	燕_NA 辽西王_NA 农_NA 悉_D 将_VT 部曲_NA 数_NA 万_NA 口_NF 之_VT 幷州_NA ，将_VT ，卽_R 亮_R 翻_VT
+SGW	Pred:	之_NH ，往_V 也_T
+SGW	Pred:	幷州_NA 素_D 乏_VT 储_VT 㣥_NA ，㣥_NA ，丈_R 里_NG 翻_VT
+SGW	Pred:	是_SHI 岁_NA 早_VT 霜_NA ，民_NA 不_D 能_VT 供_VT 其_NH 食_NA ，又_D 遣_VT 诸_NA 部_NA 护军_NA 分_D 监_VT 诸_NA 胡_NA ，监_R ，工_R 衔_R 翻_T
+SGW	Pred:	由是_C 民_NA 夷_NA 俱_D 怨_VT ，潜_D 召_VT 魏_NA 军_NA
+SGW	Pred:	八月_NA ，己亥_NA ，魏王珪_NA 大_VT 举_VT 伐_VT 燕_NA ，兵_NA 无_VT 内_NG 应_VT 与_C 必_VT 胜_VT 之_D 计_NA ，不_D 可_VT 大_VT 举_VT
+SGW	Pred:	步骑_NA 四_A 十_A 馀_NA 万_A ，南_NG 出_VT 马邑_NC ，踰_VT 句注_NC ，句_R ，音_NA 钩_R
+SGW	Pred:	旌旗_NA 二_A 千_A 馀_NA 里_NF ，鼓_VT 行_NA 而_C 进_V
+SGW	Pred:	左将军_NA 鴈门_NB 李栗_NB 将_VT 五_A 万_A 骑_NA 为_VT 前驱_NA ，别_D 遣_VT 将军_NA 封眞_NB 等_T 从_P 东道_NA 出_VT 军都_NA ，袭_VT 燕_NB 幽州_NB
+SGW	Pred:	魏书_NA 官氏志_NA ：拓跋诘汾_V 时_NA ，馀_NA 部_NA 诸_NA 姓_NA 内_NG 入_VT 者_T8 有_VT 是_SHI 贲氏_NA ，后_NA 改_VT 为_VT 封氏_NA
+SGW	Pred:	军都县_NA ，前汉_NA 属_VT 上谷郡_NA ，后汉_NA 属_VT 广阳郡_NA ，晋_NA 属_VT 燕国_NA ；有_VT 军都关_NA
+SGW	Pred:	贤_NA 曰_VT ：今_NA 幽州_NA 昌平县_NA 有_VT 军都山_NA ，在_VT 西北_NG
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	15燕_NA 征北大将军_NA 、幽_NA ·平_NA 二_NA 州牧_NA 、淸河公_NA 会_NA 母_NA 贱_VT 而_C 年_NA 长_VT ，长_VT ，知_VT 两_NA 翻_VT
+SGW	Pred:	雄俊_VT 有_VT 器艺_NA ，燕_NA 主_NA 垂爱_VT 之_NH
+SGW	Pred:	宝_NA 之_D 伐_VT 魏_NA 也_T ，垂_VT 命_VT 会_VT 摄_VT 东宫_NA 事_NA 、总录_NA ，礼遇_VT 一_NA 如_VT 太子_NA
+SGW	Pred:	总录_NA ，谓_VT 总_D 录_VT 朝政_NA 也_T
+SGW	Pred:	及_P 垂_D 伐_VT 魏_NA ，命_VT 会_VT 鎭龙城_NA ，委_VT 以_P 东北_NG 之_D 任_NA ，国官_NA 府佐_NA ，皆_D 选_VT 一时_NA 才望_NA
+SGW	Pred:	垂_D 疾_NA 笃_VT ，遗_VT 言_NA 命_VT 宝_NA 以_P 会_NA 为_VT 嗣_NA ；而_C 宝_NA 爱_VT 少_VT 子_NA 濮阳_NA 公_NA 策_NA ，意_NA 不_D 在_VT 会_NA
+SGW	Pred:	长乐公_NA 盛_VT 与_P 会_NA 同_VT 年_NA ，耻_VT 为_VT 之_NH 下_VT ，少_VT ，诗_NA 照_VT 翻_VT
+SGW	Pred:	濮_R ，博_R 木_R 翻_VT
+SGW	Pred:	乐_NA ，音_NA 洛_R
+SGW	Pred:	乃_D 与_P 赵_NA 王_NA 麟_NA 共_D 劝_VT 宝_NA 立_VT 策_NA ，宝_NA 从_VT 之_NH
+SGW	Pred:	乙亥_NA ，立_V 妃_NA 段氏_NB 为_VT 皇后_NA ，策_VT 为_VT 皇太子_NA ，会_NB 、盛_NB 皆_D 进_V 爵_NA 为_VT 王_NA
+SGW	Pred:	策_NA 年_NA 十_NA 一_NA ，素_D 憃弱_VT ，憃_R ，与_P 戆_NA 同_VT ，陟_R 降_R 翻_V ，愚_VT 也_T
+SGW	Pred:	会_NB 闻_VT 之_NH ，心_NA 愠怼_V
+SGW	Pred:	愠_J ，于_P 问_NA 翻_VT
+SGW	Pred:	怼_R ，直_VT 类_NA 翻_VT
+SGW	Pred:	
+SGW	Pred:	九月_NA ，章武王_NA 宙_NB 奉_VT 燕_NA 主_NA 垂_NB 及_C 成哀_NA 段后_NB 之_D 丧_NA 葬_VT 于_P 龙城_NC 宣平陵_NA ，成哀后_NB ，卽宝_NB 所_T8 杀_VT 后_A 母_NA 段氏_NA 也_T 。宝_NA 诏_VT 宙_NB 悉_D 徙_VT 高阳王_NA 隆_NA 参佐_NA 、部曲_NA 、家属_NA 还_VT 中山_NC ，隆_NB 去年_NA 自_P 龙城_NC 还_VT 中山_NC ，会_NA 实_D 代_VT 之_NH ，故_C 令_VT 遣_VT 还_VT 其_NH 部曲_NA 参佐_NA 。会_NA 违_VT 诏_NA ，多_D 留_V 部曲_NA 不_D 遣_VT 。宙_NB 年_NA 长_VT 属_VT 尊_NA ，长_NA ，知_VT 两_A 翻_V 。会_NB 每_NA 事_NA 陵侮_VT 之_NH ，见_VT 者_T8 皆_D 知_VT 其_NH 有_VT 异_VT 志_NA 。为_P 宝_NA 、会_NA 父子_NA 相_D 图_VT 张本_NB
+SGW	Pred:	
+SGW	Pred:	16戊午_NA ，魏_NB 军_NA 至_VT 阳曲_NC ，阳曲县_NB 自_P 汉_ND 以_P 来_V 属_VT 太原郡_NB
+SGW	Pred:	宋白_NA 曰_VT ：阳曲县_NA 故_VT 城_NA ，在_VT 太原县_NA 北_NG 四_NA 十_NA 五_NA 里_NF ，后汉_NA 末_NA 所_T8 移_VT 也_T
+SGW	Pred:	隋文帝_NA 改_VT 为_VT 阳直_NA ，寻_D 又_D 改_VT 为_VT 汾阳县_NA
+SGW	Pred:	乘_VT 西山_NB ，临_VT 晋阳_NC ，遣_VT 骑_NA 环_VT 城_NA 大_D 譟_VT 而_C 去_V
+SGW	Pred:	骑_VT ，奇_R 寄_R 翻_E
+SGW	Pred:	环_R ，音_NA 宦_R
+SGW	Pred:	燕_NA 辽西王_NA 农_NA 出_VT 战_V ，大_VT 败_VT ，奔_VT 还_VT 晋阳_NA ，司马_NA 慕舆嵩_NA 闭_VT 门_NA 拒_VT 之_NH
+SGW	Pred:	前_NA 有_VT 慕舆嵩_NA 以_P 谋_VT 奉_VT 赵王_NA 麟_NA 为_VT 变_NA 而_C 诛_VT
+SGW	Pred:	此_NH 又_D 一_A 人_NA
+SGW	Pred:	农_NB 将_VT 妻子_NA 帅_VT 数_A 千_A 骑_NA 东_NG 走_V ，魏_NB 中领_VT 将军_NA 长孙肥_NB 追_VT 之_NH ，中领将军_NA ，魏_NB 所_NH 置_VT ，犹_VT 魏_NB 、晋_NB 之_T 中领军_NA 也_T
+SGW	Pred:	帅_NA ，读_VT 曰_VT 率_NA
+SGW	Pred:	及_VT 于_P 潞川_NA ，严_VT ：「川_NA 」改_VT 「州_NA
+SGW	Pred:	获_VT 农_NA 妻子_NA
+SGW	Pred:	燕_NB 军_NA 尽_D 没_V ，农_NA 被_VT 创_NA ，独_D 与_P 三_A 骑_NA 逃归_VT 中山_NC
+SGW	Pred:	被_NA ，皮义_NA 翻_VT
+SGW	Pred:	创_R ，初_R 良_R 翻_VT
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	魏_NA 王珪_NA 遂_D 取_VT 幷州_NA
+SGW	Pred:	初_D 建_VT 台省_NA ，置_VT 刺史_NA 、太守_NA 、尙书郞_NA 以下_NG 官_NA ，悉_D 用_VT 儒生_NA 为_VT 之_NH
+SGW	Pred:	士大夫_NA 诣_VT 军门_NA ，无_VT 少长_NA ，皆_D 引_VT 入_VT 存慰_V ，使_VT 人人_NA 尽_D 言_VT ，少_R ，诗_R 照_R 翻_VT
+SGW	Pred:	长_R ，知_VT 两_NA 翻_VT
+SGW	Pred:	少_NA 有_VT 才用_NA ，咸_D 加_VT 擢敍_VT
+SGW	Pred:	史_NA 言_VT 拓跋珪_NA 所以_C 能_VT 取_VT 中原_NA
+SGW	Pred:	少_VT ，诗沼_NA 翻_VT
+SGW	Pred:	己未_NA ，遣_VT 辅国将军_NA 奚收_NB 略_VT 地_NA 汾川_NC ，「奚收_NB 」，当_VT 作_VT 「奚牧_NB
+SGW	Pred:	获_VT 燕_NA 丹杨王买德_NA 及_C 离石_NA 护军_NA 高秀和_NA
+SGW	Pred:	离石县_NB 自_P 汉_ND 以_P 来_V 属_VT 西河郡_NB ，燕_NB 置_VT 护军_NA 以_P 统_VT 𥡴_V 胡_NB
+SGW	Pred:	以_P 中书待郞_NA 张恂_NB 等_T6 为_VT 诸_NA 郡_NA 太守_NA ，招抚_VT 离散_NA ，劝课_VT 农桑_NA
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	燕_NA 主_NA 宝_NA 闻_VT 魏_NA 军_NA 将_D 至_VT ，议_VT 于_P 东_NG 堂_NA
+SGW	Pred:	中山_NA 尹_NA 苻谟_NA 曰_VT ：「今_NA 魏_NA 军_NA 众强_VT ，千_NA 里_NF 远_VT 鬭_VT ，乘_VT 胜_NA 气_NA 锐_VT ，若_C 纵_VT 之_NH 使_VT 入_VT 平_VT 土_NA ，不_D 可_VT 敌_VT 也_T ，宜_VT 杜_VT 险_NA 以_C 拒_VT 之_NH
+SGW	Pred:	」苻谟_NA 降_VT 燕_NA 见_VT 一_NA 百_NA 六_NA 卷_NF 十_NA 一_NA 年_NA
+SGW	Pred:	中书令_NA 眭邃_NA 曰_VT ：「魏_NA 多_VT 骑兵_NA ，往来_VT 剽速_VT ，剽_R ，匹_R 妙_R 翻_VT
+SGW	Pred:	马_NA 上_NG 赍粮_NA ，不_D 过_VT 旬日_NA ；宜_VT 令_VT 郡县_NA 聚_V 民_NA ，千_A 家_NA 为_VT 一_A 堡_NA ，深_V 沟_NA 高_V 垒_NA ，淸_VT 野_NA 以_P 待_VT 之_NH ，彼_NH 至_V 无_VT 所_NH 掠_VT ，不_D 过_VT 六_A 旬_NA ，食_NA 尽_V 自_D 退_V
+SGW	Pred:	」尙书_NA 封_VT 懿_NB 曰_VT ：「今_NA 魏_NB 兵_NA 数_A 十_A 万_A ，天下_NA 之_T 勍敌_NA 也_T ，勍_NB ，渠京_NB 翻_V
+SGW	Pred:	民_NA 虽_C 筑_VT 堡_NA ，不_D 足以_VT 自_D 固_V ，是_NH 聚_V 兵_NA 及_C 粮_NA 以_P 资_VT 之_NH 也_T
+SGW	Pred:	且_C 动摇_V 民心_NA ，示_VT 之_NH 以_P 弱_NA ，不如_VT 阻_VT 关_NA 拒_VT 战_NA ，计_NA 之_T 上_NG 也_T
+SGW	Pred:	」赵王麟_NB 曰_VT ：「魏_NB 今_NA 乘_VT 胜_NA 气_NA 锐_V ，其_NH 锋_NA 不_D 可_VT 当_VT ，宜_VT 完_D 守_VT 中山_NB ，待_VT 其_NH 弊_NA 而_C 乘_VT 之_NH
+SGW	Pred:	」于是_C 修_V 城_NA 积_V 粟_NA ，为_VT 持_VT 久_NA 之_T 备_NA
+SGW	Pred:	不_D 据_VT 险_NA 拒_VT 战_NA 而_C 婴_VT 城_NA 自_D 守_VT ，此_NH 慕容宝_NA 所以_C 败_VT 也_T
+SGW	Pred:	命_VT 辽西王农_NA 出_VT 屯_VT 安喜_NA ，安喜_NA ，前汉_NA 之_D 安险县_NA 也_T ，后汉_NA 章帝_NA 改_VT 曰_VT 安喜_NA ，属_VT 中山郡_NA
+SGW	Pred:	军事_NA 动静_NA ，悉_D 以_P 委_VT 麟_NA
+SGW	Pred:	为_VT 麟_NA 叛_VT 宝_NA 张本_NA
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	1_NA 7帝_NA 嗜_VT 酒_NA ，流连_V 内_A 殿_NA ，醒治_VT 严_VT ：「治_R 」改_VT 「日_R
+SGW	Pred:	旣少_V ，言_VT 昏醉_V 之_T 时_NA 多_V ，醒_V 而_C 治_V 事_NA 之_T 时_NA 少_V 也_T
+SGW	Pred:	外_A 人_NA 罕_VT 得_VT 进_VT 见_VT
+SGW	Pred:	见_VT ，贤_R 遍_VT 翻_VT
+SGW	Pred:	张_NA 贵人_NA 宠冠_VT 后宫_NA ，冠_NA ，古玩_NA 翻_VT
+SGW	Pred:	后宫_NA 皆_D 畏_VT 之_NH
+SGW	Pred:	庚申_NA ，帝_NA 与_P 后_NA 宫_NA 宴_V ，妓乐_NA 尽_D 侍_VT ；妓_NA ，渠绮_NA 翻_VT
+SGW	Pred:	时_NA 贵人_NA 年_NA 近_VT 三_NA 十_NA ，帝_NA 戏_VT 之_NH 曰_VT ：「汝_NH 以_P 年_NA 亦_D 当_D 废_VT 矣_T ，吾_NH 意_NA 更_D 属_VT 少_VT 者_T8
+SGW	Pred:	」近_R ，其_R 靳_R 翻_V
+SGW	Pred:	属_R ，之_NH 欲_VT 翻_VT
+SGW	Pred:	少_E ，诗照_VT 翻_VT
+SGW	Pred:	贵人_NA 潜_D 怒_VT ，向夕_NA ，帝_NA 醉_VT ，寝_V 于_P 淸暑殿_NA ，淸暑殿_NA ，帝_NA 所_T8 作_VT
+SGW	Pred:	贵人_NA 徧飮_VT 宦者_NA 酒_NA ，散_VT 遣_VT 之_NH ，使_VT 婢_NA 以_P 被_NA 蒙_VT 帝_NA 面_NA ，弑_VT 之_NH ，重_VT 赂_VT 左右_NA ，云_VT 「因_P 魇_NA 暴_VT 崩_VT
+SGW	Pred:	飮_R ，于_R 鸩_R 翻_VT
+SGW	Pred:	魇_V ，于琰_NA 翻_VT
+SGW	Pred:	广韵_NA 曰_VT ：睡_V 中_NG 魇_V
+SGW	Pred:	毛晃_NA 曰_VT ：气_NA 窒_VT 心_NA 惧_VT 而_C 神_NA 乱_VT 则_D 魇_V
+SGW	Pred:	时_NA 太子_NA 闇弱_VT ，会_D 𥡴_D 王_NA 道子_NA 昏荒_VT ，会_R ，工_NA 外_NG 翻_VT
+SGW	Pred:	遂_D 不_D 复_D 推问_VT
+SGW	Pred:	复_R ，扶_VT 又_D 翻_VT ；下_NG 同_VT
+SGW	Pred:	王国宝_NA 夜_NA 叩_VT 禁门_NA ，欲_VT 入_VT 为_VT 遗诏_NA ，侍中_NA 王爽_NA 拒_VT 之_NH 曰_VT ：「大行_NA 晏驾_V ，皇太子_NA 未_D 至_VT ，敢_VT 入_VT 者_T8 斩_VT ！」国宝_NA 乃_D 止_VT
+SGW	Pred:	爽_NB ，恭_NB 之_T 弟_NA 也_T
+SGW	Pred:	辛酉_NA ，太子_NA 卽_VT 皇帝_NA 位_NA ，大_D 赦_VT
+SGW	Pred:	
+SGW	Pred:	安帝_NA 幼_VT 而_C 不_D 慧_VT ，杜预_NA 曰_VT ：不_D 慧_VT ，世_NA 所谓_VT 白癡_NA 。口_NA 不_D 能_VT 言_VT ，至于_P 寒暑_NA 饥饱_NA 亦_D 不_D 能_VT 辨_VT ，飮_VT 食_NA 寝兴_V 皆_D 非_D 己_NH 出_VT 。母_NA 弟_NA 琅邪王_NA 德文_NA ，性_NA 恭谨_VT ，常_D 侍_VT 左右_NA ，为_VT 之_NH 节适_VT ，始_D 得_VT 其_NH 宜_NA 。节_NA 适_VT ，谓_VT 事_NA 为_VT 之_NH 节_NA 以_P 适_VT 其_NH 口体_NA 。为_R ，于_R 伪_R 翻_V
+SGW	Pred:	
+SGW	Pred:	初_NA ，王国宝_NA 党附_VT 会𥡴_NA 王道子_NA ，王国宝_NA 党附_VT 道子_NA ，事始_NA 一_NA 百_NA 五_NA 卷_NF 八_NA 年_NA
+SGW	Pred:	骄纵_VT 不_D 法_V ，屡_D 为_P 御史中丞_NA 褚粲_NA 所_T8 纠_VT
+SGW	Pred:	国宝_NA 起_VT 斋_NA ，侔淸_VT 暑_NA 殿_NA ，孝武帝_NA 甚_D 恶_VT 之_NH ；恶_VT ，乌_R 路翻_R
+SGW	Pred:	国宝_NA 惧_VT ，遂_D 更_D 求_VT 媚_V 于_P 帝_NA 而_C 疏_VT 道子_NA ，帝_NA 复_D 宠昵_VT 之_NH
+SGW	Pred:	昵_R ，尼_R 质_R 翻_V
+SGW	Pred:	道子_NA 大_VT 怒_VT ，尝_D 于_P 内_NG 省_VT 面_D 责_VT 国宝_NA ，以_P 剑_NA 掷_VT 之_NH ，旧_VT 好_NA 尽_VT 矣_T
+SGW	Pred:	好_VT ，呼_VT 到_VT 翻_VT
+SGW	Pred:	及_P 帝_NA 崩_VT ，国宝_NA 复_D 事_VT 道子_NA ，与_P 王緖_NA 共_D 为_VT 邪谄_NA ，道子_NA 更_D 惑_VT 之_NH ，倚_VT 为_VT 心腹_NA ，遂_D 参管_VT 朝权_NA ，威_NA 震_VT 内外_NG ，并_D 为_P 时_NA 之_D 所_T8 疾_VT
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	王恭_NA 入赴_VT 山陵_NA ，每_D 正色_NA 直_VT 言_VT ，道子_NA 深_VT 惮_VT 之_NH
+SGW	Pred:	恭_NA 罢_VT 朝_NA ，歎_VT 曰_VT ：「榱栋_NA 虽_C 新_VT ，朝_NA ，直_VT 遥_VT 翻_VT ；下_NG 同_VT
+SGW	Pred:	榱_NA ，所_NH 追翻_V
+SGW	Pred:	秦_NB 曰_VT 屋椽_NA ，齐_NB 、鲁_NB 曰_VT 桷_NA ，周_ND 曰_VT 榱_NA
+SGW	Pred:	便_D 有_VT 黍离_NA 之_D 歎_NA ！」周_NA 大夫_NA 行役_V 过_VT 故_A 宗庙_NA 宫室_NA ，尽_D 为_VT 禾黍_NA ，故_C 作_VT 黍离_NA 之_D 诗_NA
+SGW	Pred:	緖说_VT 国宝_NA ，说_VT ，输_VT 芮翻_NB
+SGW	Pred:	因_P 恭_NA 入_VT 朝_NA ，劝_VT 相王_NA 伏_VT 兵_NA 杀_VT 之_NH ，国宝_NA 不_D 许_VT
+SGW	Pred:	道子_NB 欲_VT 辑和_V 内外_NG ，乃_D 深_D 布_VT 腹心_NA 于_P 恭_NB ，冀_VT 除_V 旧恶_NA ；而_C 恭_NB 每_D 言及_VT 时政_NA ，辄_D 厉_V 声色_NA
+SGW	Pred:	道子_NA 知_VT 恭_NA 不_D 可_VT 和协_VT ，遂_D 有_VT 相_D 图_VT 之_D 志_NA
+SGW	Pred:	
+SGW	Pred:	
+SGW	Pred:	或_NH 劝_VT 恭_NA 因_D 入_VT 朝_NA 以_P 兵_NA 诛_VT 国宝_NA ，恭_NA 以_P 豫州_NA 刺史_NA 庾楷_NA 士马_NA 甚_D 盛_VT ，党_VT 于_P 国宝_NA ，惮_VT 之_NH ，不_D 敢_VT 发_VT
+SGW	Pred:	王珣_NA 谓_VT 恭_NA 曰_VT ：「国宝_NA 虽_C 终_D 为_VT 祸乱_NA ，要之_D 罪逆_NA 未_D 彰_VT ，今_NA 遽_D 先_VT 事_NA 而_C 发_VT ，必_VT 大_VT 失_VT 朝野_NA 之_D 望_NA
+SGW	Pred:	况_C 拥_VT 强_VT 兵_NA 窃_D 发_VT 于_P 京辇_NA ，谁_NH 谓_VT 非_D 逆_VT ！国宝_NA 若_C 遂_D 不_D 改_VT ，恶_NA 布_VT 天下_NA ，然后_D 顺_VT 众_NA 心_NA 以_P 除_VT 之_NH ，亦_D 无_D 忧_VT 不_D 济_VT 也_T
+SGW	Pred:	」恭_NB 乃_D 止_V
+SGW	Pred:	旣而_C 谓_VT 珣_NA 曰_VT ：「比来_NA 视_VT 君_NH 一似_VT 胡广_NA
+SGW	Pred:	」谓_VT 依违_VT 于_P 权奸_NA 之_D 间_NG 以_C 保_VT 禄位_NA
+SGW	Pred:	比_R ，毗_R 至_R 翻_VT ，近_VT 也_T
+SGW	Pred:	珣_NA 曰_VT ：「王陵_NA 廷争_V ，陈平_NA 愼默_VT ，但_D 问_VT 岁晏_NA 何如_VT 耳_T ！」谓_VT 王陵_NA 以_P 廷争_V 失_VT 位_NA ，陈平_NA 以_P 愼默_VT 终_D 能_VT 安_VT 刘_NA
+SGW	Pred:	争_NA ，读_VT 曰_VT 诤_R
+SGW	Pred:	
+SGW	Pred:	冬_NA ，十月_NA ，甲申_NA ，葬_VT 孝武帝_NB 于_P 隆平陵_NC 。王恭_NB 还鎭_V ，将_D 行_V ，谓_VT 道子_NB 曰_VT ：「主上_NA 谅闇_V ，闇_V ，读_VT 如_VT 阴_NB 。冢宰_NA 之_T 任_NA ，伊_NB 、周_ND 所_NH 难_VT ，愿_VT 大王_NA 亲_D 万几_V ，纳_VT 直言_NA ，放_VT 郑声_NB ，远_V 佞人_NA 。」_VT 几_NA ，与_P 机_NA 同_V 。远_V ，于愿_NB 翻_V 。国宝_NB 等_T 愈_D 惧_VT
+SGW	Pred:	
+SGW	Pred:	18魏_NA 王珪_NA 使_VT 冠军将军_NA 代_VT 人_NA 于_VT 栗磾_NA 、魏书_NA 官氏志_NA ：拓跋诘_NA 汾_NA 时_NA ，馀_NA 部_NA 诸_NA 姓_NA 内_NG 入_VT 者_T8 有_VT 勿忸于氏_NA ，后_NA 改_VT 为_VT 于氏_NA
+SGW	Pred:	冠_R ，古_R 玩_R 翻_VT
+SGW	Pred:	磾_R ，丁_R 奚_R 翻_V
+SGW	Pred:	宁朔将军_NA 公孙兰_NB 帅_VT 步骑_NA 二_A 万_A ，潜_D 自_P 晋阳_NC 开_V 韩信_NB 故道_NA
+SGW	Pred:	韩信_NB 自_P 井陉_NC 伐_VT 赵_NB 之_T 故路_NA 也_T
+SGW	Pred:	帅_NA ，读_VT 曰_VT 率_NA
+SGW	Pred:	骑_VT ，奇_R 寄_R 翻_E
+SGW	Pred:	己酉_NA ，珪_NB 自_P 井陉_NC 趋_VT 中山_NC
+SGW	Pred:	李先_NB 降_VT 魏_NA ，去年_NA ，李先_NB 自_P 西燕_NC 归_VT 燕_NC
+SGW	Pred:	趋_R ，七_R 喩_NA 翻_VT
+SGW	Pred:	降_R ，户_R 江_R 翻_V
+SGW	Pred:	珪_NA 以_P 为_VT 征东_NA 左长史_NA
+SGW	Pred:	
+SGW	Pred:	19西秦_NA 凉州_NA 牧_NA 轲弹_NA 与_P 秦州牧_NA 益州_NA 不_D 平_VT ，轲弹_NA 奔_VT 凉_NA
+SGW	Pred:	
+SGW	Pred:	20魏王珪_NB 进_V 攻_VT 常山_NB ，拔_VT 之_NH ，获_VT 太守_NA 苟延_NB ；自_P 常山_NC 以_P 东_NG ，守宰_NA 或_NH 走_V 或_NH 降_V ，诸_A 郡县_NA 皆_D 附_VT 于_P 魏_NB ，惟_T 中山_NB 、邺_NB 、信都_NB 三_A 城_NA 为_VT 燕_NB 守_NA
+SGW	Pred:	中山_NA ，燕_NA 都_NA ，慕容德_NA 守_VT 邺_NA ，慕容凤_NA 守_VT 信都_NA ，皆_D 重鎭_NA 也_T
+SGW	Pred:	为_NA ，于_R 伪_R 翻_VT
+SGW	Pred:	十一月_NA ，珪_NB 命_VT 东平公仪_NB 将_VT 五_A 万_A 骑_NA 攻_VT 邺_NB ，冠军将军_NA 王建_NB 、左将军_NA 李栗_NB 攻_VT 信都_NB
+SGW	Pred:	戊午_NA ，珪_NB 进_V 军_NA 中山_NC ；己未_NA ，攻_VT 之_NH
+SGW	Pred:	燕_NA 高阳王隆_NA 守_VT 南郭_NA ，帅_VT 众_NA 力_D 战_V ，自_P 旦_NA 至_VT 晡_NA ，杀伤_VT 数_NA 千_NA 人_NA ，魏_NA 兵_NA 乃_D 退_V
+SGW	Pred:	珪_NB 谓_VT 诸_A 将_NA 曰_VT ：「中山_NB 城_NA 固_V ，宝_NB 必_VT 不_D 肯_VT 出_V 战_V ，急_D 攻_VT 则_C 伤_V 士_NA ，久_D 围_VT 则_C 费_V 粮_NA ，不如_VT 先_NG 取_VT 邺_NB 、信都_NB ，然后_C 图_VT 之_NH
+SGW	Pred:	」丁卯_NA ，珪_NB 引_VT 兵_NA 而_C 南_V
+SGW	Pred:	
+SGW	Pred:	章武王_NA 宙_NA 自_P 龙城_NA 还_VT ，闻_VT 有_VT 魏_NA 寇_NA ，驰_V 入_VT 蓟_NA ，与_P 鎭北将军_NA 阳城_NA 王兰_NA 乘_VT 城_NA 固_VT 守_VT 。兰_NA ，垂_NA 之_D 从弟_NA 也_T 。从_VT ，才_D 用_VT 翻_VT 。魏_NA 别将_NA 石河头_NA 攻_VT 之_NH ，不_D 克_VT ，魏书_NA 官氏志_NA ：拓跋_NA 诘_VT 汾_NA 时_NA ，馀_NA 部_NA 诸_NA 姓_NA 内_NG 入_VT 者_T8 有_VT 嗢石兰氏_NA ，后_NA 为_VT 石氏_NA 。退_V 屯_VT 渔阳_NA 。渔阳县_NA ，汉_NA 属_VT 渔阳郡_NA ，晋_NA 省_VT
+SGW	Pred:	珪_NA 军_V 于_P 鲁口_NA ，博陵_NA 太守_NA 申永_NA 奔_VT 河南_NA ，高阳_NA 太守_NA 崔宏_NA 奔_VT 海渚_NA 。海渚_NA ，海_NA 中州_NA 也_T 。珪_NA 素_D 闻_VT 宏_NA 名_NA ，遣_VT 骑_NA 追求_VT ，获_VT 之_NH ，以_P 为_VT 黄门侍郎_NA ，与_P 给事黄门侍郞_NA 张衮_NA 对_D 掌_VT 机要_NA ，创立_VT 制度_NA 。为_P 崔宏_NA 父子_NA 贵显_VT 于_P 魏_NA 张本_NA 。博陵_NA 令_NA 屈遵_NA 降_VT 魏_NA ，屈_R ，居_R 勿_D 翻_VT 。降_R ，户_R 江_R 翻_VT 。珪_NA 以_P 为_VT 中书令_NA ，出纳_VT 号令_NA ，兼_D 总_VT 文诰_NA
+SGW	Pred:	
+SGW	Pred:	燕_NB 范阳王德_NB 使_VT 南安王靑_NB 等_T 夜_NA 击_VT 魏_NB 军_NA 于_P 邺_NC 下_NG ，破_V 之_NH ，魏_NB 军_NA 退_V 屯_VT 新城_NC
+SGW	Pred:	新城_NB ，卽燕_NB 主_NA 垂_NB 攻_VT 邺_NB 所_NH 筑_VT 者_NH 也_T
+SGW	Pred:	靑_NB 等_T 请_VT 追击_VT 之_NH ，别驾_NA 韩𧨳_NA 曰_VT ：𧨳_R ，音_NA 卓_R
+SGW	Pred:	「古人_NA 先_NG 计_VT 而后_C 战_V
+SGW	Pred:	魏_NB 军_NA 不_D 可_VT 击_VT 者_NH 四_A ：悬_V 军_NA 远客_NA ，利_NA 在_VT 野_D 战_NA ，一_A 也_T ；深_D 入_VT 近畿_NA ，顿_V 兵_NA 死地_NA ，二_A 也_T ；前锋_NA 旣_D 败_V ，后阵_NA 方_D 固_V ，三_A 也_T ；彼_NH 众_V 我_NH 寡_V ，四_A 也_T
+SGW	Pred:	官军_NA 不_D 宜_VT 动_NA 者_NH 三_A ：自_D 战_VT 其_NH 地_NA ，一_A 也_T ；自_D 战_VT 其_NH 地_NA 者_NH ，众_NA 易_VT 败散_V
+SGW	Pred:	动_V 而_C 不_D 胜_V ，众_NA 心_NA 难_VT 固_V ，二_A 也_T ；城隍_NA 未_D 修_V ，敌_NA 来_V 无_VT 备_NA ，三_A 也_T
+SGW	Pred:	今_NA 魏_NB 无_VT 资粮_NA ，不如_VT 深_V 垒_NA 固_V 军_NA 以_P 老_V 之_NH
+SGW	Pred:	」德_NB 从_VT 之_NH ，召_VT 靑_NB 还_V
+SGW	Pred:	靑_NB ，详_NB 之_T 兄_NA 也_T
+SGW	Pred:	
+SGW	Pred:	十二月_NA ，魏_NA 辽西_NC 公_NA 贺赖卢_NA 帅_VT 骑_NA 二_NA 万_NA 会_VT 东平公_NA 仪_NA 攻_VT 邺_NA 。赖卢_NA ，讷_NA 之_D 弟_NA 也_T 。为_P 贺赖卢_NA 降_V 慕容德_NA 张本_NA 。按_VT 魏书_NA 官氏志_NA ，内_NG 入_VT 诸_NA 姓_NA 有_VT 贺赖氏_NA ，北方_NG 有_VT 贺兰氏_NA ，后_NA 皆_D 为_VT 贺氏_NA ，盖_D 内_NG 入_VT 者_T8 为_VT 贺赖氏_NA ，留_VT 北方_NG 者_T8 为_VT 贺兰氏_NA 。「兰_R 」、「赖_R 」语_NA 转_VT 耳_T 。又_D 匈奴_NA 诸_NA 种_NA 亦_D 有_VT 贺赖氏_NA
+SGW	Pred:	魏_NB 别部_NA 大人_NA 没根_NB 有_VT 胆勇_NA ，魏王珪_NB 恶_VT 之_NH 。恶_VT ，乌路翻_NB 。没根_NB 惧_VT 诛_NA ，己丑_NA ，将_VT 亲兵_NA 数_A 十_A 人_NA 降_VT 燕_NB ，燕_NB 主_NA 宝_NB 以为_VT 鎭东_NC 大将军_NA ，封_VT 鴈门_NC 公_NA 。没根_NB 求_VT 还_V 袭_VT 魏_NB ，宝_NB 难_VT 与_VT 重兵_NA ，给_VT 百_A 馀_NA 骑_NA 。没根_NB 效_VT 其_NH 号令_NA ，夜_NA 入_VT 魏_NB 营_NA ，至_VT 中仗_NA ，珪_NB 乃_D 觉_VT 之_NH ，狼狈_V 惊_D 走_V ，没根_NB 以_P 所_NH 从_VT 人_NA 少_V ，不_D 能_VT 坏_V 其_NH 大众_NA ，多_D 获_VT 首虏_NA 而_C 还_V 。史_NA 言_VT 慕容_NB 宝_NB 不_D 能_VT 因_D 降_VT 人_NA 为_VT 间_NA 以_P 破_V 魏_NB 。少_V ，诗沼翻_NB 。坏_V ，音_NA 怪_V
+SGW	Pred:	21杨盛_NA 遣_VT 使_NA 来_VT 请_VT 命_NA ；诏_VT 拜_VT 盛_NA 鎭南将军_NA 、仇池_NA 公_NA 。盛_NA 表_VT 苻宣_NA 为_VT 平北将军_NA
+SGW	Pred:	22是_NH 岁_NA ，越_NB 质_NA 诘归_NB 帅_VT 户_NA 二_A 万_A 叛_VT 西秦_NB 降_V 于_P 秦_NB ，越_NB 质_NA 诘_NB 归_V 降_V 西秦_NB ，见_VT 上卷_NB 十六年_NA 。帅_NA ，读_VT 曰_VT 率_NA ；下_NG 同_V 。秦_NB 人_NA 处_V 之_NH 成纪_NC ，成纪县_NC 自_P 汉_ND 以_P 来_V 属_VT 天水郡_NB 。处_NB ，昌吕_R 翻_V 。拜_VT 鎭西将军_NA 、平襄公_NB
+SGW	Pred:	23秦_NB 陇西王_NB 硕德_NB 攻_VT 姜乳_NB 于_P 上邽_NC ，乳_NB 率_VT 众_NA 降_V 。秦_NB 以_P 硕德_NB 为_VT 秦州_NC 牧_NA ，鎭_VT 上邽_NA ；征乳_NB 为_VT 尙书_NA 。强熙_NB 、权千成_NB 帅_VT 众_NA 三_A 万_A 共_D 围_VT 上邽_NB ，硕德_NB 击破_VT 之_NH ，熙_NB 奔_VT 仇池_NC ，遂_D 来_V 奔_V 。硕德_NB 西_NG 击_VT 千成_NB 于_P 略阳_NC ，千成_NB 降_V
+SGW	Pred:	24西燕_NA 旣_NA 亡_VT ，其_NH 所_T8 署_VT 河东_NA 太守_NA 柳恭_NA 等_T6 各_D 拥_VT 兵_NA 自_NH 守_VT 。秦_NA 主_NA 兴_NA 遣_VT 晋_NA 王_NA 緖_NA 攻_VT 之_NH ，恭_NA 等_T6 临_VT 河_NA 拒守_V ，緖_NA 不_D 得_VT 济_VT
+SGW	Pred:	初_D ，永嘉_NA 之_D 乱_NA ，汾阴_NC 薛氏_NB 聚_V 其_NH 族党_NA ，阻_VT 河_NC 自_D 固_VT ，不_D 仕_VT 刘_NB 、石_NB 。及_P 苻氏_NB 兴_V ，乃_D 以_P 礼_NA 聘_VT 薛彊_NB ，拜_VT 鎭东将军_NA ，彊_NB 引_VT 秦_NB 兵_NA 自_P 龙门_NA 济_V ，魏_NA 土地记_NA 曰_VT ：梁山_NA 北_NG 有_VT 龙门山_NA ，大禹_NA 所_T8 凿_VT ，通_VT 孟津_NA 河口_NA ，广_NA 八_A 十_A 步_NF ，巖际_NA 镌_VT 迹_NA ，遗_VT 功_NA 尙_D 存_V 。梁山_NB 在_VT 冯翊_NA 夏阳县_NA 西北_NG 。遂_D 入_VT 蒲坂_NC ，恭_NB 等_T 皆_D 降_V ，兴_NB 以_P 緖_NB 为_VT 幷_NB 、冀_NB 二_A 州_NA 牧_NA ，鎭_NB 蒲坂_NC
+SGW	Pred:	王崇武_NA 标点_VT 容肇祖_NA 聂崇岐_NA 覆校_V
