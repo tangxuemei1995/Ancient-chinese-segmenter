@@ -20,7 +20,7 @@ R:	97.22
 F:	97.20
 
 ## Citation
-词性标注并没有发表论文，但是如果您使用了我们的工具进行了学术研究，可以引用以下论文，我们是在改论文的基础上实现的
+词性标注并没有发表论文，但是如果您使用了我们的工具进行了学术研究，可以引用以下论文，我们是在该论文的基础上实现的
 ```
 @inproceedings{tang-su-2022-slepen,
     title = "That Slepen Al the Nyght with Open Ye! Cross-era Sequence Segmentation with Switch-memory",
